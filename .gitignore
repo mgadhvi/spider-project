@@ -1,0 +1,56 @@
+# --- Python ---
+__pycache__/
+*.py[cod]
+*.pyo
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+*.log
+*.sqlite3
+
+# --- Virtual Environments ---
+venv/
+env/
+.venv/
+ENV/
+.Python
+
+# --- Jupyter / IPython ---
+.ipynb_checkpoints/
+*.ipynb
+
+# --- Prefect ---
+*.orion/
+.orion/
+.prefect/
+prefect.db
+
+# --- Geo-related cache/temp files ---
+*.aux.xml
+*.lock
+*.prj
+*.gdb/
+*.zip
+*.tar.gz
+
+# --- Emacs ---
+*~
+\#*\#
+.\#*
+.emacs.desktop
+.emacs.desktop.lock
+auto-save-list/
+tramp
+eln-cache/
+eshell/history
+projectile-bookmarks.eld
+saveplace/
+url/
+bookmarks
+recentf
+custom.el
+*.elc
+*flycheck*.el
