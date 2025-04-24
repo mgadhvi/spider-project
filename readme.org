@@ -3,59 +3,66 @@
 
 ** Overview
 
-This project aims to provide an interactive map showing the **spider species** that have been observed in different **Wildlife Trust regions** across the UK. By combining data from **iNaturalist**, a global citizen science platform, with **Wildlife Trust boundary data**, this map allows users to see what spider species have been spotted in specific regions. This helps visitors to Wildlife Trust areas have an idea of the types of spiders they might encounter while exploring these nature reserves.
+This project aims to provide an interactive map showing the *spider species* that have been observed in different *Wildlife Trust regions* across the UK. By combining data from *iNaturalist*, a global citizen science platform, with *Wildlife Trust boundary data*, this map allows users to see what spider species have been spotted in specific regions. This helps visitors to Wildlife Trust areas have an idea of the types of spiders they might encounter while exploring these nature reserves.
 
 ** The Goal
 
-The goal of this project is to provide insight into the **diversity** of spider species across various **Wildlife Trust regions**. By creating a spatially accurate map, we can not only track the presence of spider species but also connect this data with the boundaries of the Wildlife Trusts, helping visitors to those areas learn more about what they might find.
+The goal of this project is to provide insight into the *diversity* of spider species across various *Wildlife Trust regions*. By creating a spatially accurate map, we can not only track the presence of spider species but also connect this data with the boundaries of the Wildlife Trusts, helping visitors to those areas learn more about what they might find.
 
 ** What I Did
 
-1. **Fetched Spider Sightings from iNaturalist**:
-   - I started by using the **iNaturalist API** to collect spider sightings from across the UK. The data includes critical information like species names, common names, geolocation (latitude and longitude), and the date of observation. I filtered the data to focus on sightings that are verifiable and meet high-quality standards. 
-   - [iNaturalist](https://www.inaturalist.org/)
+1. *Fetched Spider Sightings from iNaturalist*:
+   - I started by using the *iNaturalist API* to collect spider sightings from across the UK. The data includes critical information like species names, common names, geolocation (latitude and longitude), and the date of observation. I filtered the data to only include sightings with *research-grade* quality and those with permission to be shared publicly.
+   - [iNaturalist](https://www.inaturalist.org/) provides this data under citizen science initiatives.
+   - The dataset was further filtered to ensure that only sightings with *open* geoprivacy were included.
+   
+2. *Fetched Wildlife Trust Boundaries*:
+   - I fetched the geographic boundaries of the *Wildlife Trust regions* from a public *ArcGIS FeatureServer*. These boundaries are crucial to understand where each spider sighting occurred in relation to protected wildlife areas.
+   - [Wildlife Trust](https://www.wildlifetrusts.org/) provides information about local conservation regions.
 
-2. **Fetched Wildlife Trust Boundaries**:
-   - I fetched the geographic boundaries of the **Wildlife Trust regions** from a public **ArcGIS FeatureServer**. These boundaries are crucial to understand where each spider sighting occurred in relation to protected wildlife areas.
-   - [Wildlife Trust](https://www.wildlifetrusts.org/)
+3. *Performed Spatial Join*:
+   - Using *GeoPandas*, I performed a *spatial join* to combine the spider sightings with the Wildlife Trust boundaries. This allowed me to assign each sighting to a specific *Wildlife Trust region*, creating a more meaningful dataset that links each spider sighting to its corresponding region.
 
-3. **Performed Spatial Join**:
-   - Using **GeoPandas**, I performed a **spatial join** to combine the spider sightings with the Wildlife Trust boundaries. This allowed me to assign each sighting to a specific **Wildlife Trust region**, creating a more meaningful dataset that links each spider sighting to its corresponding region.
+4. *Created an Interactive Map*:
+   - Using the *Folium* library, I generated an interactive map that visualizes the spider sightings within the Wildlife Trust regions. The map displays:
+     - *Wildlife Trust boundaries* as polygons.
+     - *Spider sightings* as individual markers with popups containing the species names and the observation dates.
+     - *Clustering* of spider sightings using Folium's *MarkerCluster* feature, which helps manage a large number of markers and makes the map more user-friendly.
 
-4. **Created an Interactive Map**:
-   - Using the **Folium** library, I generated an interactive map that visualizes the spider sightings within the Wildlife Trust regions. The map displays:
-     - **Wildlife Trust boundaries** as polygons.
-     - **Spider sightings** as individual markers with popups containing the species names and the observation dates.
-     - **Clustering** of spider sightings using Folium's **MarkerCluster** feature, which helps manage a large number of markers and makes the map more user-friendly.
-
-5. **Exported the Data**:
-   - I exported the data as a **CSV file**, which includes:
-     - The **species** of each spider sighting.
-     - The **common name** of the species.
-     - The **date** of the sighting.
-     - The **geolocation** (latitude and longitude).
-     - The **Wildlife Trust region** where the sighting occurred.
+5. *Exported the Data*:
+   - I exported the data as a *CSV file*, which includes:
+     - The *species* of each spider sighting.
+     - The *common name* of the species.
+     - The *date* of the sighting.
+     - The *geolocation* (latitude and longitude).
+     - The *Wildlife Trust region* where the sighting occurred.
    This makes the data accessible for anyone wanting to analyze the sightings or build further tools around it.
 
-6. **Automated the Process**:
-   - To ensure the data stays up-to-date, I set up an automated workflow using **Prefect**, a workflow orchestration tool. The script runs every month, fetching fresh data from iNaturalist and updating the map and CSV with the latest spider sightings.
+6. *Automated the Process*:
+   - To ensure the data stays up-to-date, I set up an automated workflow using *Prefect*, a workflow orchestration tool. The script runs every month, fetching fresh data from iNaturalist and updating the map and CSV with the latest spider sightings.
 
 ** Why It Matters
 
-The project helps bridge the gap between **citizen science** and **conservation efforts**. By providing an up-to-date map of spider sightings within specific **Wildlife Trust regions**, the project offers valuable insights into the biodiversity of spiders across these protected areas. It can:
-- Help **nature enthusiasts** and **researchers** discover what spider species are present in different regions.
-- Serve as an educational tool for **visitors** to Wildlife Trust areas, allowing them to learn about the types of spiders they may encounter.
-- Potentially highlight areas where certain species are more common or rare, aiding in **conservation planning**.
+The project helps bridge the gap between *citizen science* and *conservation efforts*. By providing an up-to-date map of spider sightings within specific *Wildlife Trust regions*, the project offers valuable insights into the biodiversity of spiders across these protected areas. It can:
+- Help *nature enthusiasts* and *researchers* discover what spider species are present in different regions.
+- Serve as an educational tool for *visitors* to Wildlife Trust areas, allowing them to learn about the types of spiders they may encounter.
+- Potentially highlight areas where certain species are more common or rare, aiding in *conservation planning*.
 
 ** Future Work
 
 While this project provides a solid foundation for visualizing spider sightings, there are several potential ways to expand and improve it:
 
-1. **Species Filtering**: Allow users to filter sightings by specific spider species, so they can see where particular species have been observed.
-2. **Mobile-Friendly Map**: Make the map more optimized for mobile devices, allowing visitors on-site to use it while exploring Wildlife Trust areas.
-3. **Integration with Other Platforms**: Connect this map with other citizen science platforms or local wildlife databases to expand the scope of data.
-4. **More Detailed Data**: Include additional details for each sighting, such as habitat types, or integrate information about conservation status for the species observed.
+1. *Species Filtering*: Allow users to filter sightings by specific spider species, so they can see where particular species have been observed.
+2. *Mobile-Friendly Map*: Make the map more optimized for mobile devices, allowing visitors on-site to use it while exploring Wildlife Trust areas.
+3. *Integration with Other Platforms*: Connect this map with other citizen science platforms or local wildlife databases to expand the scope of data.
+4. *More Detailed Data*: Include additional details for each sighting, such as habitat types, or integrate information about conservation status for the species observed.
+5. *PostGIS Integration*: A PostGIS version of the data will be made available for more complex analysis, allowing researchers and conservationists to run spatial queries directly on the data.
 
 ** Conclusion
 
-This project showcases how data from platforms like **iNaturalist** can be integrated with **Wildlife Trust boundaries** to create a meaningful tool for conservation and education. It provides an engaging and informative way for people to learn about spider species in different regions, while also helping to track biodiversity in Wildlife Trust areas.
+This project showcases how data from platforms like *iNaturalist* can be integrated with *Wildlife Trust boundaries* to create a meaningful tool for conservation and education. It provides an engaging and informative way for people to learn about spider species in different regions, while also helping to track biodiversity in Wildlife Trust areas.
+
+** Data Sources
+
+- Spider sightings data sourced from [iNaturalist](https://www.inaturalist.org/). This data is filtered to include only *research-grade* sightings with *open* geoprivacy.
+- Wildlife Trust regional boundaries data sourced from [Wildlife Trust](https://www.wildlifetrusts.org/), a key provider of conservation boundaries across the UK.
