@@ -13,12 +13,12 @@ The goal of this project is to provide insight into the *diversity* of spider sp
 
 1. *Fetched Spider Sightings from iNaturalist*:
    - I started by using the *iNaturalist API* to collect spider sightings from across the UK. The data includes critical information like species names, common names, geolocation (latitude and longitude), and the date of observation. I filtered the data to only include sightings with *research-grade* quality and those with permission to be shared publicly.
-   - [iNaturalist](https://www.inaturalist.org/) provides this data under citizen science initiatives.
+   - [[https://www.inaturalist.org/][iNaturalist]] provides this data under citizen science initiatives.
    - The dataset was further filtered to ensure that only sightings with *open* geoprivacy were included.
    
 2. *Fetched Wildlife Trust Boundaries*:
    - I fetched the geographic boundaries of the *Wildlife Trust regions* from a public *ArcGIS FeatureServer*. These boundaries are crucial to understand where each spider sighting occurred in relation to protected wildlife areas.
-   - [Wildlife Trust](https://www.wildlifetrusts.org/) provides information about local conservation regions.
+   - [[https://www.wildlifetrusts.org/][Wildlife Trust]] provides information about local conservation regions.
 
 3. *Performed Spatial Join*:
    - Using *GeoPandas*, I performed a *spatial join* to combine the spider sightings with the Wildlife Trust boundaries. This allowed me to assign each sighting to a specific *Wildlife Trust region*, creating a more meaningful dataset that links each spider sighting to its corresponding region.
@@ -64,5 +64,5 @@ This project showcases how data from platforms like *iNaturalist* can be integra
 
 ** Data Sources
 
-- Spider sightings data sourced from [iNaturalist](https://www.inaturalist.org/). This data is filtered to include only *research-grade* sightings with *open* geoprivacy.
-- Wildlife Trust regional boundaries data sourced from [Wildlife Trust](https://www.wildlifetrusts.org/), a key provider of conservation boundaries across the UK.
+- Spider sightings data sourced from [[https://www.inaturalist.org/][iNaturalist]]. This data is filtered to include only *research-grade* sightings with *open* geoprivacy.
+- Wildlife Trust regional boundaries data sourced from [[https://www.wildlifetrusts.org/][Wildlife Trust]], a key provider of conservation boundaries across the UK.
