@@ -86,7 +86,7 @@ def spatial_join_sightings_with_trusts(sightings_gdf, trust_gdf):
     return joined
 
 
-def export_to_csv(joined_gdf, filename="spider_sightings_with_trust.csv"):
+def export_to_csv(joined_gdf, filename="spider_sightings.csv"):
     final_df = joined_gdf[["fid", "Species", "species_guess", "Observed on", "lat", "lon", "Trust"]]
     final_df.to_csv(filename, index=False)
     print(f"Saved final CSV as {filename}")
