@@ -1,259 +1,355 @@
 fid,Species,species_guess,Observed on,lat,lon,Trust
-1,Pisaura mirabilis,European Nursery Web spider,2025-04-25,51.3669693405,0.5526708439,Kent Wildlife Trust
-2,Pisaura mirabilis,European Nursery Web spider,2025-04-25,53.4040036756,-3.16344349,Cheshire Wildlife Trust
-3,Araniella,Cucumber Spiders,2025-04-18,51.5645085557,-0.1615268964,London Wildlife Trust
-4,Pisaura mirabilis,European Nursery Web spider,2025-04-25,51.4125524322,-0.9379170276,"Berks, Bucks & Oxon Wildlife Trust"
-5,Araniella,Cucumber Spiders,2025-04-25,53.7552981774,-0.4183141592,Yorkshire Wildlife Trust
-6,Pisaura mirabilis,European Nursery Web spider,2025-04-25,52.5101432778,-2.2380120556,Staffordshire Wildlife Trust
-7,Pisaura mirabilis,European Nursery Web spider,2025-04-25,52.4415516667,-0.6797116667,"Bedfordshire, Cambridgeshire and Northamptonshire - The Wildlife Trust for"
-8,Pisaura mirabilis,European Nursery Web spider,2025-04-25,52.4412216667,-0.6800166667,"Bedfordshire, Cambridgeshire and Northamptonshire - The Wildlife Trust for"
-9,Pisaura mirabilis,European Nursery Web spider,2025-04-25,51.7437216667,-0.0628971667,Herts & Middlesex Wildlife Trust
-10,Pisaura mirabilis,European Nursery Web spider,2025-04-25,53.39180961,-2.88030932,"Lancashire, Manchester and north Merseyside - The Wildlife Trust for"
-11,Pisaura mirabilis,European Nursery Web spider,2025-04-25,50.9235518997,-0.0632047,Sussex Wildlife Trust
-12,Pisaura mirabilis,European Nursery Web spider,2025-04-25,50.9509574375,-4.5318567251,Devon Wildlife Trust
-13,Segestria florentina,Tube-dwelling Spider,2023-06-08,51.3610390466,1.0242558271,Kent Wildlife Trust
-14,Pisaura mirabilis,European Nursery Web spider,2025-04-24,51.5187545038,-0.0025649667,London Wildlife Trust
-15,Pisaura mirabilis,European Nursery Web spider,2025-04-24,51.5178035221,-0.0048094476,London Wildlife Trust
-16,Arctosa perita,Sand Bear Spider,2025-04-24,50.7982861111,-1.8978555556,Dorset Wildlife Trust
-17,Pisaura mirabilis,European Nursery Web spider,2025-04-24,51.1968413997,-3.5460823,Somerset Wildlife Trust
-18,Pisaura mirabilis,European Nursery Web spider,2025-04-24,50.9135169085,-0.0686738128,Sussex Wildlife Trust
-19,Araniella,Cucumber Spiders,2025-04-24,50.9135487726,-0.0686090084,Sussex Wildlife Trust
-20,Pisaura mirabilis,European Nursery Web spider,2025-04-24,51.5755199,-2.3780972997,Avon Wildlife Trust
-21,Pisaura mirabilis,European Nursery Web spider,2025-04-24,51.8800751709,0.7375942035,Essex Wildlife Trust
-22,Pisaura mirabilis,European Nursery Web spider,2025-04-24,52.3670833333,-1.4133166667,Warwickshire Wildlife Trust
-23,Maja brachydactyla,Spiny Spider Crab,2025-04-11,50.3616027778,-4.1481166667,
-24,Philodromus dispar,Eurasian Running Crab Spider,2025-04-23,51.5725858006,-0.0565349311,London Wildlife Trust
-25,Philodromus dispar,Eurasian Running Crab Spider,2025-04-24,53.597,-2.20733,"Lancashire, Manchester and north Merseyside - The Wildlife Trust for"
-26,Xerolycosa nemoralis,Burnt Wolf Spider,2018-07-10,50.7176753867,-2.2515603065,Dorset Wildlife Trust
-27,Pisaura mirabilis,European Nursery Web spider,2025-04-23,52.924941434,-0.6691515037,Lincolnshire Wildlife Trust
-28,Pisaura mirabilis,European Nursery Web spider,2025-04-23,52.924941434,-0.6691515037,Lincolnshire Wildlife Trust
-29,Pisaura mirabilis,European Nursery Web spider,2025-04-23,52.924941434,-0.6691515037,Lincolnshire Wildlife Trust
-30,Pisaura mirabilis,European Nursery Web spider,2025-04-23,52.924941434,-0.6691515037,Lincolnshire Wildlife Trust
-31,Pisaura mirabilis,European Nursery Web spider,2025-04-23,52.924941434,-0.6691515037,Lincolnshire Wildlife Trust
-32,Philodromus dispar,Eurasian Running Crab Spider,2025-04-23,51.255096,0.5496299722,Kent Wildlife Trust
-33,Araniella,Cucumber Spiders,2025-03-27,51.6095966667,0.1955866667,London Wildlife Trust
-34,Araniella,Cucumber Spiders,2025-04-23,50.5778129722,-3.9612699722,Devon Wildlife Trust
-35,Pisaura mirabilis,European Nursery Web spider,2025-04-23,51.2104429997,-2.8595861997,Somerset Wildlife Trust
-36,Araniella,Cucumber Spiders,2025-04-23,52.2299856829,0.0839515643,"Bedfordshire, Cambridgeshire and Northamptonshire - The Wildlife Trust for"
-37,Araniella,Cucumber Spiders,2025-04-23,52.5492504803,1.7288304755,Norfolk Wildlife Trust
-38,Maja brachydactyla,Spiny Spider Crab,2025-03-21,50.3612472222,-4.1478166667,
-39,Araniella,Cucumber Spiders,2025-04-20,53.317422175,-4.2228294855,North Wales Wildlife Trust
-40,Pisaura mirabilis,European Nursery Web spider,2025-04-23,53.763447816,-0.3417841999,Yorkshire Wildlife Trust
-41,Araniella,Cucumber Spiders,2025-04-22,50.3746656508,-4.1714894184,Devon Wildlife Trust
-42,Philodromus dispar,Eurasian Running Crab Spider,2025-04-22,52.4724916667,-1.94965,Birmingham & Black Country Wildlife Trust
-43,Macaroeris nidicolens,Mile End Jumping Spider,2025-04-22,51.5182140314,-0.0032978287,London Wildlife Trust
-44,Pisaura mirabilis,European Nursery Web spider,2025-04-22,53.7450830977,-0.3865885361,Yorkshire Wildlife Trust
-45,Araniella,Cucumber Spiders,2025-04-22,51.5836216667,-0.1327028333,London Wildlife Trust
-46,Gibbaranea gibbosa,Humped orbweb spider,2025-04-22,51.4480491209,-0.3174203988,London Wildlife Trust
-47,Pisaura mirabilis,European Nursery Web spider,2025-04-22,51.4824650913,-0.1515179873,London Wildlife Trust
-48,Pardosa nigriceps,Black-Palped Wolf Spider,2025-04-22,51.48243586,-0.1516470686,London Wildlife Trust
-49,Araniella,Cucumber Spiders,2025-04-22,53.8226416667,-0.6946333333,Yorkshire Wildlife Trust
-50,Pisaura mirabilis,European Nursery Web spider,2025-04-22,51.4890293047,0.230562023,Essex Wildlife Trust
-51,Philodromus dispar,house crab-spider,2025-04-22,52.5764166667,-2.1641195,Birmingham & Black Country Wildlife Trust
-52,Pisaura mirabilis,European Nursery Web spider,2025-04-22,52.249445,-0.2511833333,"Bedfordshire, Cambridgeshire and Northamptonshire - The Wildlife Trust for"
-53,Pisaura mirabilis,European Nursery Web spider,2025-04-22,51.1798562123,-3.5091921065,Somerset Wildlife Trust
-54,Pisaura mirabilis,European Nursery Web spider,2025-04-22,51.1798573364,-3.5091786954,Somerset Wildlife Trust
-55,Araneus diadematus,European Garden Spider,2021-10-09,51.6611127335,-0.3970199078,Herts & Middlesex Wildlife Trust
-56,Pisaura mirabilis,European Nursery Web spider,2023-12-29,50.8697133333,-0.0859471667,Sussex Wildlife Trust
-57,Pisaura mirabilis,European Nursery Web spider,2025-04-22,53.92732308,-1.12657285,Yorkshire Wildlife Trust
-58,Scytodes thoracica,Common Spitting Spider,2025-04-22,51.5586966667,-1.791,Wiltshire Wildlife Trust
-59,Pisaura mirabilis,European Nursery Web spider,2025-04-22,50.9509574375,-4.5318567251,Devon Wildlife Trust
-60,Pisaura mirabilis,European Nursery Web spider,2025-04-20,52.2885610986,0.0571203232,"Bedfordshire, Cambridgeshire and Northamptonshire - The Wildlife Trust for"
-61,Araniella,Cucumber Spiders,2025-04-18,52.2878697572,0.0637447089,"Bedfordshire, Cambridgeshire and Northamptonshire - The Wildlife Trust for"
-62,Pisaura mirabilis,European Nursery Web spider,2025-04-21,54.565675,-5.93625,Ulster Wildlife Trust
-63,Amaurobius similis,Lace-Weaver Spider,2025-04-21,53.0308966,-1.7330311,Derbyshire Wildlife Trust
-64,Amaurobius similis,Lace-Weaver Spider,2025-04-21,53.0309778333,-1.73313,Derbyshire Wildlife Trust
-65,Araniella,Araniella,2025-04-21,52.201805,0.1194055,"Bedfordshire, Cambridgeshire and Northamptonshire - The Wildlife Trust for"
-66,Araniella,Cucumber Spiders,2025-04-21,55.9303167464,-3.2546093942,Scottish Wildlife Trust
-67,Pisaura mirabilis,European Nursery Web spider,2025-04-21,51.74070413,-1.16231805,"Berks, Bucks & Oxon Wildlife Trust"
-68,Pisaura mirabilis,European Nursery Web spider,2025-04-21,51.4855461121,-2.6334602833,Avon Wildlife Trust
-69,Araniella,Cucumber Spiders,2025-04-21,53.5027474998,-2.3554519088,"Lancashire, Manchester and north Merseyside - The Wildlife Trust for"
-70,Araneus diadematus,European Garden Spider,2025-04-21,53.5027438145,-2.3554265556,"Lancashire, Manchester and north Merseyside - The Wildlife Trust for"
-71,Pisaura mirabilis,European Nursery Web spider,2025-04-21,51.3311611111,0.0527888889,London Wildlife Trust
-72,Pisaura mirabilis,European Nursery Web spider,2025-04-21,50.7041242556,-3.5034904428,Devon Wildlife Trust
-73,Pisaura mirabilis,European Nursery Web spider,2025-04-18,53.8148601161,-1.6761130307,Yorkshire Wildlife Trust
-74,Pisaura mirabilis,European Nursery Web spider,2025-04-19,51.3378305556,-0.2863583333,Surrey Wildlife Trust
-75,Euophrys frontalis,White-Palped Jumping Spider,2025-04-20,51.484473651,-0.1908773929,London Wildlife Trust
-76,Pisaura mirabilis,European Nursery Web spider,2025-04-20,51.733519548,-2.2195108607,Gloucestershire Wildlife Trust
-77,Pisaura mirabilis,European Nursery Web spider,2025-04-20,51.484125,-0.1886083333,London Wildlife Trust
-78,Harpactea hombergi,Sneak Spider,2025-04-20,56.1235666667,-3.9291388889,Scottish Wildlife Trust
-79,Pisaura mirabilis,European Nursery Web spider,2025-04-20,51.4868833333,-0.1921472222,London Wildlife Trust
-80,Pisaura mirabilis,European Nursery Web spider,2025-04-20,50.9086467731,-2.8494816273,Somerset Wildlife Trust
-81,Pisaura mirabilis,European Nursery Web spider,2025-04-20,51.8686514129,0.2006956255,Essex Wildlife Trust
-82,Pisaura mirabilis,European Nursery Web spider,2025-04-20,51.4881083333,-0.1927383167,London Wildlife Trust
-83,Pisaura mirabilis,European Nursery Web spider,2025-04-20,51.5071767489,-2.6575246453,Avon Wildlife Trust
-84,Pisaura mirabilis,European Nursery Web spider,2025-04-20,51.2136031,-0.3263094997,Surrey Wildlife Trust
-85,Pisaura mirabilis,European Nursery Web spider,2025-04-20,53.7492238857,-2.699200809,"Lancashire, Manchester and north Merseyside - The Wildlife Trust for"
-86,Pisaura mirabilis,European Nursery Web spider,2025-04-20,53.7492238857,-2.699200809,"Lancashire, Manchester and north Merseyside - The Wildlife Trust for"
-87,Pisaura mirabilis,European Nursery Web spider,2025-04-20,51.15265,-2.7838966667,Somerset Wildlife Trust
-88,Araniella,Cucumber Spiders,2025-04-20,50.9910659486,-0.0478968769,Sussex Wildlife Trust
-89,Araniella,Cucumber Spiders,2025-04-20,51.4460055556,-0.4513194444,London Wildlife Trust
-90,Araniella,Cucumber Spiders,2025-04-20,55.0306901422,-1.4564545825,Northumberland Wildlife Trust
-91,Araniella,Cucumber Spiders,2025-04-19,52.0869721667,1.293605,Suffolk Wildlife Trust
-92,Araniella,Cucumber Spiders,2025-04-20,52.9780636606,-1.9893297273,Staffordshire Wildlife Trust
-93,Pisaura mirabilis,European Nursery Web spider,2025-04-20,53.8385083333,-0.42527,Yorkshire Wildlife Trust
-94,Pisaura mirabilis,European Nursery Web spider,2025-04-20,51.190925,-0.0969361667,Surrey Wildlife Trust
-95,Araneus diadematus,European Garden Spider,2025-04-20,53.6287607639,-2.146352604,"Lancashire, Manchester and north Merseyside - The Wildlife Trust for"
-96,Araniella,Cucumber Spiders,2025-04-20,53.5634388234,-2.8929677624,"Lancashire, Manchester and north Merseyside - The Wildlife Trust for"
-97,Araniella,Cucumber Spiders,2025-04-20,52.57823,-2.160275,Birmingham & Black Country Wildlife Trust
-98,Scytodes thoracica,Common Spitting Spider,2025-04-19,51.0652655871,-1.3303333019,Hampshire & IOW Wildlife Trust
-99,Pisaura mirabilis,European Nursery Web spider,2025-04-20,51.4396471,-0.35512439,London Wildlife Trust
-100,Araniella,Cucumber Spiders,2025-04-20,51.8628863572,-2.258185884,Gloucestershire Wildlife Trust
-101,Araniella,Cucumber Spiders,2023-07-01,53.3467716667,-1.4902,Sheffield & Rotherham Wildlife Trust
-102,Pisaura mirabilis,European Nursery Web spider,2025-04-20,52.528388798,-2.3231107973,Shropshire Wildlife Trust
-103,Araniella,Cucumber Spiders,2025-04-20,51.9541568611,-3.9168335598,South & West Wales - The Wildlife Trust for
-104,Pisaura mirabilis,European Nursery Web spider,2025-04-19,51.451675415,-2.036822319,Wiltshire Wildlife Trust
-105,Pisaura mirabilis,European Nursery Web spider,2025-04-19,51.2642059,-1.1223616997,Hampshire & IOW Wildlife Trust
-106,Araniella,Cucumber Spiders,2025-04-19,52.2053833902,-1.7006997489,Warwickshire Wildlife Trust
-107,Araniella,Cucumber Spiders,2025-04-19,50.9516600116,0.3436961528,Sussex Wildlife Trust
-108,Segestria florentina,Tube-dwelling Spider,2025-04-18,51.4509323347,-0.3227402717,London Wildlife Trust
-109,Philodromus dispar,Eurasian Running Crab Spider,2025-04-19,53.4858078581,-2.3608861112,"Lancashire, Manchester and north Merseyside - The Wildlife Trust for"
-110,Pisaura mirabilis,European Nursery Web spider,2025-04-19,51.1377639391,0.8655779279,Kent Wildlife Trust
-111,Araniella,Cucumber Spiders,2025-04-19,55.8887023926,-3.0867714882,Scottish Wildlife Trust
-112,Pisaura mirabilis,European Nursery Web spider,2025-04-19,53.3735767,-2.7381022,Cheshire Wildlife Trust
-113,Amaurobius similis,Lace-Weaver Spider,2025-04-19,54.5411099154,-1.9406937394,Durham Wildlife Trust
-114,Pisaura mirabilis,European Nursery Web spider,2025-04-19,53.8308248531,-1.6430230066,Yorkshire Wildlife Trust
-115,Pisaura mirabilis,European Nursery Web spider,2025-04-19,53.965423191,-1.1502008792,Yorkshire Wildlife Trust
-116,Pisaura mirabilis,European Nursery Web spider,2025-04-17,52.2228284748,-0.2726552903,"Bedfordshire, Cambridgeshire and Northamptonshire - The Wildlife Trust for"
-117,Pisaura mirabilis,European Nursery Web spider,2025-04-11,51.7481989999,-0.351469,Herts & Middlesex Wildlife Trust
-118,Pisaura mirabilis,European Nursery Web spider,2025-04-18,51.2697653907,1.0850715485,Kent Wildlife Trust
-119,Pisaura mirabilis,European Nursery Web spider,2025-04-18,51.5431933333,-0.3396133333,London Wildlife Trust
-120,Araniella,Cucumber Spiders,2025-04-18,53.3941142294,-3.1049181148,Cheshire Wildlife Trust
-121,Araniella,Cucumber Spiders,2025-03-30,53.9718211315,-0.7274376895,Yorkshire Wildlife Trust
-122,Pisaura mirabilis,European Nursery Web spider,2025-04-18,50.8377383333,-0.282325,Sussex Wildlife Trust
-123,Pisaura mirabilis,European Nursery Web spider,2025-04-18,52.1163888333,0.0652471667,"Bedfordshire, Cambridgeshire and Northamptonshire - The Wildlife Trust for"
-124,Pisaura mirabilis,European Nursery Web spider,2025-04-18,52.1161583333,0.0652888333,"Bedfordshire, Cambridgeshire and Northamptonshire - The Wildlife Trust for"
-125,Pisaura mirabilis,European Nursery Web spider,2025-04-18,51.44305,-0.4516416667,London Wildlife Trust
-126,Araniella,Cucumber Spiders,2025-04-18,50.9832229614,0.1020575017,Sussex Wildlife Trust
-127,Pisaura mirabilis,European Nursery Web spider,2025-04-18,51.77055501,-1.32856595,"Berks, Bucks & Oxon Wildlife Trust"
-128,Araneus diadematus,European Garden Spider,2025-04-18,54.0801841021,-1.6814184096,Yorkshire Wildlife Trust
-129,Harpactea hombergi,Sneak Spider,2025-04-17,51.9848761332,-2.4463228048,Gloucestershire Wildlife Trust
-130,Anelosimus vittatus,Banded Comb-Footed Spider,2025-04-17,51.9848761332,-2.4463228048,Gloucestershire Wildlife Trust
-131,Pisaura mirabilis,European Nursery Web spider,2025-03-22,51.6279833333,-0.4817783333,Herts & Middlesex Wildlife Trust
-132,Araneus alsine,Strawberry Spider,2018-07-21,56.17852,-4.38307,Scottish Wildlife Trust
-133,Pisaura mirabilis,European Nursery Web spider,2018-08-25,54.9203533333,-3.7905966667,Scottish Wildlife Trust
-134,Scytodes thoracica,Common Spitting Spider,2025-04-17,55.017329382,-2.1484168991,Northumberland Wildlife Trust
-135,Pisaura mirabilis,European Nursery Web spider,2025-04-17,52.0526695356,1.2214447474,Suffolk Wildlife Trust
-136,Pisaura mirabilis,European Nursery Web spider,2025-04-17,51.5896833333,-4.0153861111,South & West Wales - The Wildlife Trust for
-137,Araniella,Cucumber Spiders,2025-04-17,55.016695,-1.5366733333,Northumberland Wildlife Trust
-138,Pisaura mirabilis,European Nursery Web spider,2025-04-17,53.2522615741,-3.0276384243,Cheshire Wildlife Trust
-139,Pisaura mirabilis,European Nursery Web spider,2025-04-17,55.0148555556,-1.4946,Northumberland Wildlife Trust
-140,Agelena labyrinthica,Labyrinth spider,2025-04-17,52.442855,1.0255666667,Norfolk Wildlife Trust
-141,Pisaura mirabilis,European Nursery Web spider,2025-04-16,52.3301626503,-0.5638756169,"Bedfordshire, Cambridgeshire and Northamptonshire - The Wildlife Trust for"
-142,Pisaura mirabilis,European Nursery Web spider,2025-04-17,51.643804133,0.4142254511,Essex Wildlife Trust
-143,Pisaura mirabilis,European Nursery Web Spider,2025-04-17,51.1381750034,1.3190383333,Kent Wildlife Trust
-144,Araniella,Cucumber Spiders,2025-04-17,53.9464083333,-1.0537083333,Yorkshire Wildlife Trust
-145,Pisaura mirabilis,European Nursery Web spider,2025-04-17,52.0892194444,0.055325,"Bedfordshire, Cambridgeshire and Northamptonshire - The Wildlife Trust for"
-146,Pisaura mirabilis,European Nursery Web spider,2025-04-17,52.0860444444,0.0492444444,"Bedfordshire, Cambridgeshire and Northamptonshire - The Wildlife Trust for"
-147,Araniella,Cucumber Spiders,2017-04-21,54.47714,-1.500762,Yorkshire Wildlife Trust
-148,Pisaura mirabilis,European Nursery Web spider,2025-04-17,51.7893028259,-2.4548323154,Gloucestershire Wildlife Trust
-149,Araneus diadematus,Cross Orbweaver,2022-10-28,50.9953117371,-1.3365033865,Hampshire & IOW Wildlife Trust
-150,Pisaura mirabilis,European Nursery Web spider,2025-04-05,50.7672222546,-0.7811400667,Sussex Wildlife Trust
-151,Araniella,Cucumber Spiders,2025-04-16,52.9866031063,-0.2942336351,Lincolnshire Wildlife Trust
-152,Pisaura mirabilis,European Nursery Web spider,2025-04-16,50.2592962384,-5.0257733837,Cornwall Wildlife Trust
-153,Araniella,Cucumber Spiders,2025-04-16,50.3997994868,-3.4840500748,Devon Wildlife Trust
-154,Araniella,Cucumber Spiders,2025-04-15,51.49295,-0.1185638889,London Wildlife Trust
-155,Ballus chalybeius,Oak Jumping Spider,2025-04-15,52.7232926572,-1.158285141,Leicestershire & Rutland Wildlife Trust
-156,Araneus diadematus,Cross Orbweaver,2006-08-15,53.430785,-2.142333,Cheshire Wildlife Trust
-157,Pisaura mirabilis,European Nursery Web spider,2025-04-15,51.0217444444,-3.0932777778,Somerset Wildlife Trust
-158,Pisaura mirabilis,European Nursery Web spider,2025-04-15,53.4254464172,-1.3861525009,Sheffield & Rotherham Wildlife Trust
-159,Euophrys frontalis,White-Palped Jumping Spider,2025-01-25,51.2536978107,-0.3174120433,Surrey Wildlife Trust
-160,Pisaura mirabilis,European Nursery Web spider,2024-08-06,51.4477430632,-0.4057778703,London Wildlife Trust
-161,Maja brachydactyla,Spiny Spider Crab,2025-04-10,50.6200533333,-1.95508,Dorset Wildlife Trust
-162,Pisaura mirabilis,European Nursery Web spider,2025-04-14,51.4158311838,-0.3406371358,London Wildlife Trust
-163,Pisaura mirabilis,European Nursery Web spider,2025-04-14,52.5299222222,0.2799638889,Norfolk Wildlife Trust
-164,Pisaura mirabilis,European Nursery Web spider,2025-04-13,50.8725866997,-0.0907616,Sussex Wildlife Trust
-165,Pisaura mirabilis,European Nursery Web spider,2025-04-14,52.9840436817,-1.0877396893,Nottinghamshire Wildlife Trust
-166,Araniella,Cucumber Spiders,2025-04-14,54.3221173042,-2.7486858889,Cumbria Wildlife Trust
-167,Araneus diadematus,European Garden Spider,2024-06-29,51.4607211012,-0.33188884,London Wildlife Trust
-168,Pisaura mirabilis,European Nursery Web spider,2025-04-06,50.6184666667,-1.9563166667,Dorset Wildlife Trust
-169,Araniella,Cucumber Spiders,2025-04-06,50.6184666667,-1.9563166667,Dorset Wildlife Trust
-170,Araniella,Cucumber Spiders,2025-04-12,52.6753831003,-1.9428486243,Staffordshire Wildlife Trust
-171,Pisaura mirabilis,European Nursery Web spider,2025-04-13,51.575657,0.771415,Essex Wildlife Trust
-172,Niptus hololeucus,golden spider beetle,2025-04-13,55.9576313794,-3.1621869653,Scottish Wildlife Trust
-173,Niptus hololeucus,golden spider beetle,2025-04-13,55.9576324,-3.1621819,Scottish Wildlife Trust
-174,Pisaura mirabilis,European Nursery Web spider,2025-04-13,53.9247241396,-1.0319280875,Yorkshire Wildlife Trust
-175,Macropodia rostrata,Long-legged Spider Crab,2025-04-10,54.4934833333,-5.651095,Ulster Wildlife Trust
-176,Barypeithes pellucidus,Hairy Spider Weevil,2025-04-13,53.945476,-1.1024516,Yorkshire Wildlife Trust
-177,Arctosa perita,Sand Bear Spider,2025-04-13,52.863845126,-4.1272075474,North Wales Wildlife Trust
-178,Trochosa terricola,Ground wolf spider,2025-04-11,51.4811149497,-0.298806313,London Wildlife Trust
-179,Pisaura mirabilis,European Nursery Web spider,2025-04-13,52.4780616667,-0.7069116667,"Bedfordshire, Cambridgeshire and Northamptonshire - The Wildlife Trust for"
-180,Araniella,Cucumber Spiders,2025-04-13,53.9590469096,-1.1620568298,Yorkshire Wildlife Trust
-181,Pisaura mirabilis,European Nursery Web spider,2025-04-12,53.9495980201,-1.0225107364,Yorkshire Wildlife Trust
-182,Pisaura mirabilis,European Nursery Web spider,2025-04-12,52.41598,-1.452595,Warwickshire Wildlife Trust
-183,Eratigena atrica,Giant House Spider,2025-04-12,52.4159966667,-1.4526116667,Warwickshire Wildlife Trust
-184,Pisaura mirabilis,European Nursery Web spider,2025-04-12,51.2260132308,1.3188844174,Kent Wildlife Trust
-185,Pisaura mirabilis,European Nursery Web spider,2025-04-12,53.915791457,-0.8439239518,Yorkshire Wildlife Trust
-186,Araniella,Cucumber Spiders,2025-04-12,50.836145,-0.1164888333,Sussex Wildlife Trust
-187,Pisaura mirabilis,European Nursery Web spider,2025-04-12,53.8949866667,-1.529955,Yorkshire Wildlife Trust
-188,Araniella,Cucumber Spiders,2025-04-12,50.9463030168,-2.8087427927,Somerset Wildlife Trust
-189,Araniella,Cucumber Spiders,2025-04-12,52.7512579,-0.90432467,Leicestershire & Rutland Wildlife Trust
-190,Pisaura mirabilis,European Nursery Web spider,2025-04-12,51.2787488356,1.2798445075,Kent Wildlife Trust
-191,Pisaura mirabilis,European Nursery Web spider,2025-04-12,50.3971222222,-3.5197083333,Devon Wildlife Trust
-192,Araniella,Cucumber Spiders,2025-04-12,50.94625,-2.8081916667,Somerset Wildlife Trust
-193,Maja brachydactyla,Spiny Spider Crab,2025-04-12,50.1468571642,-5.0585541037,Cornwall Wildlife Trust
-194,Platnickina tincta,False Pirate Spider,2025-04-12,53.8487496572,-3.0509869382,"Lancashire, Manchester and north Merseyside - The Wildlife Trust for"
-195,Pisaura mirabilis,European Nursery Web spider,2025-04-12,51.2315033333,1.2062866667,Kent Wildlife Trust
-196,Araniella,Cucumber Spiders,2025-04-11,51.4883533333,-3.1888333333,South & West Wales - The Wildlife Trust for
-197,Araneus diadematus,European Garden Spider,2025-04-11,51.3100545283,-0.5704845344,Surrey Wildlife Trust
-198,Araniella,Cucumber Spiders,2025-04-11,50.8927019997,-0.1402569997,Sussex Wildlife Trust
-199,Pisaura mirabilis,European Nursery Web spider,2025-04-11,51.4906366667,-2.5397,Avon Wildlife Trust
-200,Araniella,Cucumber Spiders,2025-04-11,53.3973768997,-1.477257,Sheffield & Rotherham Wildlife Trust
-201,Maja brachydactyla,Spiny Spider Crab,2024-06-24,51.6227051784,-4.8923913469,
-202,Maja brachydactyla,Spiny Spider Crab,2024-06-24,51.6227035036,-4.8923916822,
-203,Maja brachydactyla,Spiny Spider Crab,2024-06-24,51.6227030873,-4.8923916822,
-204,Maja brachydactyla,Spiny Spider Crab,2024-06-24,51.6227006218,-4.8923923528,
-205,Maja brachydactyla,Spiny Spider Crab,2024-06-24,51.6227036602,-4.892389922,
-206,Maja brachydactyla,Spiny Spider Crab,2024-06-24,51.6226977272,-4.8923896706,
-207,Macaroeris nidicolens,Mile End Jumping Spider,2025-02-06,51.528134,-0.037783,London Wildlife Trust
-208,Macaroeris nidicolens,Mile End Jumping Spider,2025-02-06,51.528136,-0.037779,London Wildlife Trust
-209,Anelosimus vittatus,Banded Comb-Footed Spider,2025-02-06,51.527684,-0.03889,London Wildlife Trust
-210,Linyphia triangularis,Common sheetweb spider,2023-10-10,51.481411084,-0.2958218381,London Wildlife Trust
-211,Maja brachydactyla,Spiny Spider Crab,2024-08-25,51.0894674332,1.2023887438,Kent Wildlife Trust
-212,Maja brachydactyla,Spiny Spider Crab,2024-08-25,51.0888129527,1.2013334807,Kent Wildlife Trust
-213,Maja brachydactyla,Spiny Spider Crab,2025-02-07,50.8058083333,-0.403025,Sussex Wildlife Trust
-214,Ballus chalybeius,Oak Jumping Spider,2023-04-29,51.2828316301,1.08364597,Kent Wildlife Trust
-215,Araneus marmoreus,Marbled Orbweaver,2024-09-09,51.137796,0.215476,Kent Wildlife Trust
-216,Macaroeris nidicolens,Mile End Jumping Spider,2025-02-02,51.543669,-0.063929,London Wildlife Trust
-217,Macaroeris nidicolens,Mile End Jumping Spider,2025-02-02,51.543671,-0.063894,London Wildlife Trust
-218,Segestria florentina,Tube-dwelling Spider,2025-02-02,51.455405,-2.5282966667,Avon Wildlife Trust
-219,Argiope bruennichi,Wasp Spider,2023-09-02,51.1552877638,1.2701689898,Kent Wildlife Trust
-220,Stemonyphantes lineatus,Horse-Head Spider,2025-01-30,51.3795847529,0.1057387143,London Wildlife Trust
-221,Paidiscura pallens,Sputnik Spider,2025-01-31,51.4774944652,-0.1655808091,London Wildlife Trust
-222,Steatoda bipunctata,Steatoda punteggiata,2025-01-28,56.0518619827,-3.3094781665,Scottish Wildlife Trust
-223,Argiope bruennichi,Wasp Spider,2008-08-27,50.826308,-2.0535419,Dorset Wildlife Trust
-224,Amaurobius similis,Lace-Weaver Spider,2025-01-26,53.6485684971,-2.9959114641,"Lancashire, Manchester and north Merseyside - The Wildlife Trust for"
-225,Agalenatea redii,Gorse Orbweaver,2025-01-25,53.1887101873,-1.7423931915,Derbyshire Wildlife Trust
-226,Enoplognatha ovata,Candy-striped Spider complex,2025-01-26,53.6287609627,-2.146352604,"Lancashire, Manchester and north Merseyside - The Wildlife Trust for"
-227,Maja brachydactyla,Spiny Spider Crab,2024-10-18,51.387960975,1.3771337,Kent Wildlife Trust
-228,Maja brachydactyla,Spiny Spider Crab,2024-10-18,51.3874104944,1.3737624972,Kent Wildlife Trust
-229,Segestria senoculata,Snake-back Spider,2025-01-24,51.510885,-0.112525,London Wildlife Trust
-230,Amaurobius similis,Lace-Weaver Spider,2025-01-22,51.4414078387,-2.5744556263,Avon Wildlife Trust
-231,Tibellus,Slender Crab Spiders,2025-01-18,51.448489,-0.29209,London Wildlife Trust
-232,Amaurobius similis,Lace-Weaver Spider,2025-01-22,50.9110823611,-1.3519412194,Hampshire & IOW Wildlife Trust
-233,Steatoda bipunctata,Rabbit Hutch Spider,2023-02-04,54.7628472403,-1.3409882631,Durham Wildlife Trust
-234,Maja brachydactyla,Spiny Spider Crab,2024-09-01,52.7510751819,-4.7927259654,
-235,Hyas araneus,Great Spider Crab,2025-01-18,53.2206123885,-4.1640592164,North Wales Wildlife Trust
-236,Enoplognatha ovata,Candy-striped Spider complex,2025-01-18,53.6287609627,-2.146352604,"Lancashire, Manchester and north Merseyside - The Wildlife Trust for"
-237,Maja brachydactyla,Spiny Spider Crab,2025-01-18,50.9262695313,0.7645587325,Sussex Wildlife Trust
-238,Araneus marmoreus,Marbled Orbweaver,2024-08-29,51.183527,0.245286,Kent Wildlife Trust
-239,Hyas araneus,Great Spider Crab,2025-01-16,56.3332471934,-2.7696026412,Scottish Wildlife Trust
-240,Maja brachydactyla,Spiny Spider Crab,2025-01-09,50.3604611111,-4.15865,
-241,Maja brachydactyla,Spiny Spider Crab,2025-01-14,52.87935,-4.1430666667,North Wales Wildlife Trust
-242,Niptus hololeucus,golden spider beetle,2025-01-14,52.6271643,-1.1132058,Leicestershire & Rutland Wildlife Trust
-243,Maja brachydactyla,Maja brachydactyla,2017-06-08,53.1817081574,-4.4624394178,North Wales Wildlife Trust
-244,Argiope bruennichi,Wasp Spider,2022-08-10,50.6634125467,-2.0729036685,Dorset Wildlife Trust
-245,Thanatus vulgaris,Thanatus vulgaris,2025-01-08,50.4113004011,-5.0685439863,Cornwall Wildlife Trust
-246,Niptus hololeucus,golden spider beetle,2025-01-07,53.6020966667,-2.6179783333,"Lancashire, Manchester and north Merseyside - The Wildlife Trust for"
-247,Segestria florentina,Green-Fanged Tube Web Spider,2025-01-06,50.7135166667,-3.54425,Devon Wildlife Trust
-248,Stemonyphantes lineatus,Horse-Head Spider,2025-01-06,52.2388153076,0.9193065166,Suffolk Wildlife Trust
-249,Philodromus dispar,house crab-spider,2025-01-02,52.0585935412,-0.8162355423,"Berks, Bucks & Oxon Wildlife Trust"
-250,Philodromus dispar,house crab-spider,2022-05-01,51.1776847839,0.4112283289,Kent Wildlife Trust
-251,Stemonyphantes lineatus,Horse-Head Spider,2025-01-03,51.3080444444,-2.9854527778,Avon Wildlife Trust
-252,Euryopis flavomaculata,Ant-Tiger Spider,2024-12-04,51.3838332315,-0.6071172046,Surrey Wildlife Trust
-253,Steatoda bipunctata,Rabbit Hutch Spider,2025-01-03,52.311255,0.304295,"Bedfordshire, Cambridgeshire and Northamptonshire - The Wildlife Trust for"
-254,Amaurobius similis,Lace-Weaver Spider,2025-01-02,54.1641416667,-1.860125,Yorkshire Wildlife Trust
-255,Tegenaria silvestris,Wood House Spider,2024-12-24,51.7689083333,-2.53208,Gloucestershire Wildlife Trust
-256,Segestria florentina,Tube-dwelling Spider,2025-01-02,51.4569296752,-0.9496508539,"Berks, Bucks & Oxon Wildlife Trust"
-257,Segestria florentina,Tube-dwelling Spider,2023-03-10,50.4370651245,-3.5680320263,Devon Wildlife Trust
-258,Paidiscura pallens,Sputnik Spider,2024-06-30,51.7677190068,-3.1500668513,Gwent Wildlife Trust
+1,Araneus diadematus,European Garden Spider,2025-05-02,51.5064052472,-2.653783299,Avon Wildlife Trust
+2,Trochosa terricola,Ground wolf spider,2025-04-12,53.6499063286,-1.2261366472,Yorkshire Wildlife Trust
+3,Diaea dorsata,Eurasian Green Crab Spider,2025-04-28,51.653930498,-0.1481982695,London Wildlife Trust
+3,Diaea dorsata,Eurasian Green Crab Spider,2025-04-28,51.653930498,-0.1481982695,Herts & Middlesex Wildlife Trust
+4,Agalenatea redii,Gorse Orbweb Spider,2025-05-01,51.6070588525,-1.3146639615,"Berks, Bucks & Oxon Wildlife Trust"
+5,Amaurobius similis,Lace-Weaver Spider,2025-05-01,53.3164166667,-1.9197283333,Derbyshire Wildlife Trust
+6,Paidiscura pallens,Sputnik Spider,2025-04-30,53.373018,-1.4843909722,Sheffield & Rotherham Wildlife Trust
+7,Segestria senoculata,Snake-back Spider,2025-05-01,50.3790283203,-4.1302332878,Devon Wildlife Trust
+8,Araneus diadematus,European Garden Spider,2025-04-29,51.4518077391,0.5897019701,Kent Wildlife Trust
+9,Araneus diadematus,European Garden Spider,2025-04-30,55.9008898174,-3.6161088347,Scottish Wildlife Trust
+10,Gibbaranea gibbosa,Humped orbweb spider,2025-05-01,51.0725280972,-1.2948052972,Hampshire & IOW Wildlife Trust
+11,Araneus diadematus,Cross Orbweaver,2025-05-01,51.4076181303,-0.8332848921,"Berks, Bucks & Oxon Wildlife Trust"
+12,Araneus diadematus,European Garden Spider,2024-10-17,55.0476949476,-3.5889265034,Scottish Wildlife Trust
+13,Araneus diadematus,European Garden Spider,2025-04-30,53.4191818997,-2.2083314,"Lancashire, Manchester and north Merseyside - The Wildlife Trust for"
+14,Meta menardi,European cave spider,2025-05-01,50.3589029206,-4.1743760572,Cornwall Wildlife Trust
+15,Agalenatea redii,Gorse Orbweaver,2025-04-27,51.5983221971,-3.9992477372,South & West Wales - The Wildlife Trust for
+16,Linyphia hortensis,Garden Hammock Spider,2025-04-25,53.2003080734,-2.8876987052,Cheshire Wildlife Trust
+17,Agalenatea redii,Gorse Orbweb Spider,2025-04-30,51.462675,-0.3785194444,London Wildlife Trust
+18,Nigma walckenaeri,Green Meshweaver,2025-04-27,53.748905,-0.3898466667,Yorkshire Wildlife Trust
+19,Agalenatea redii,Gorse Orbweb Spider,2025-04-30,51.4575727003,-0.39117001,London Wildlife Trust
+20,Agalenatea redii,Gorse Orbweb Spider,2025-04-29,52.4904338699,-2.0982494317,Birmingham & Black Country Wildlife Trust
+21,Agalenatea redii,Gorse Orbweb Spider,2025-04-28,51.3751242553,-0.2704048902,London Wildlife Trust
+22,Philodromus cespitum,Turf Running Spider,2025-04-28,53.314718287,-3.7407307757,North Wales Wildlife Trust
+23,Amaurobius similis,Lace-Weaver Spider,2025-04-27,55.9017164888,-2.7468837973,Scottish Wildlife Trust
+24,Arctosa perita,Sand Bear Spider,2019-04-21,53.5539836462,-3.100926498,"Lancashire, Manchester and north Merseyside - The Wildlife Trust for"
+25,Araneus diadematus,Cross Orbweaver,2025-04-29,53.488992486,-3.0287759006,"Lancashire, Manchester and north Merseyside - The Wildlife Trust for"
+26,Agalenatea redii,Gorse Orbweb Spider,2025-04-28,53.1436166736,-2.9497133333,Cheshire Wildlife Trust
+27,Agalenatea redii,Gorse Orbweaver,2025-04-28,53.1436221667,-2.9497666667,Cheshire Wildlife Trust
+28,Agalenatea redii,Gorse Orbweaver,2025-04-28,53.5274261454,-2.5914598256,"Lancashire, Manchester and north Merseyside - The Wildlife Trust for"
+29,Agalenatea redii,Gorse Orbweb Spider,2025-04-28,53.2430083333,-1.9103016667,Derbyshire Wildlife Trust
+30,Araneus diadematus,European Garden Spider,2025-04-28,57.314373,-2.000302,Scottish Wildlife Trust
+31,Araneus diadematus,European Garden Spider,2025-04-28,52.4273248994,-1.5652260881,Warwickshire Wildlife Trust
+32,Agalenatea redii,Gorse Orbweb Spider,2025-04-28,53.5277244997,-2.5907265997,"Lancashire, Manchester and north Merseyside - The Wildlife Trust for"
+33,Arctosa perita,Sand Bear Spider,2025-04-23,56.7708666667,-2.4057388889,Scottish Wildlife Trust
+34,Araneus diadematus,European Garden Spider,2025-04-28,53.0254883,-2.066466,Staffordshire Wildlife Trust
+35,Araneus diadematus,European Garden Spider,2025-04-28,53.2675896287,-1.9168437238,Derbyshire Wildlife Trust
+36,Agalenatea redii,Gorse Orbweaver,2025-04-28,50.6034021258,-3.4353617407,Devon Wildlife Trust
+37,Agalenatea redii,Gorse Orbweb Spider,2025-04-28,53.18639596,-2.62158255,Cheshire Wildlife Trust
+38,Araneus diadematus,Cross Orbweaver,2025-04-28,51.565446159,-0.4063529941,London Wildlife Trust
+38,Araneus diadematus,Cross Orbweaver,2025-04-28,51.565446159,-0.4063529941,Herts & Middlesex Wildlife Trust
+39,Agalenatea redii,Gorse Orbweaver,2025-04-28,53.2999554,-4.6067957,North Wales Wildlife Trust
+40,Araneus diadematus,Cross Orbweaver,2025-04-28,52.3824102005,-1.5565152356,Warwickshire Wildlife Trust
+41,Tetranychus cinnabarinus,Carmine Spider Mite,2025-04-28,51.6104021766,-3.9778165519,South & West Wales - The Wildlife Trust for
+42,Araneus diadematus,Cross Orbweaver,2025-04-28,51.5524902321,-3.0265390211,Gwent Wildlife Trust
+43,Harpactea hombergi,Sneak Spider,2025-04-28,52.6167221069,-1.1143991947,Leicestershire & Rutland Wildlife Trust
+44,Agalenatea redii,Gorse Orbweb Spider,2025-04-27,50.8725255,-0.0910061,Sussex Wildlife Trust
+45,Agalenatea redii,Gorse Orbweaver,2025-04-27,51.5983221971,-3.9992477372,South & West Wales - The Wildlife Trust for
+46,Arctosa perita,Sand Bear Spider,2025-04-27,51.5983221971,-3.9992477372,South & West Wales - The Wildlife Trust for
+47,Synageles venator,Palaearctic Antmimic Jumping Spider,2025-04-27,51.4821725808,0.2310189348,Essex Wildlife Trust
+48,Araneus diadematus,European Garden Spider,2025-04-27,54.8190249653,-1.6237362814,Durham Wildlife Trust
+49,Agalenatea redii,Gorse Orbweb Spider,2025-04-27,52.2601166667,-1.3858133333,Warwickshire Wildlife Trust
+50,Euophrys frontalis,White-Palped Jumping Spider,2025-04-27,53.7455144258,-0.3634867127,Yorkshire Wildlife Trust
+51,Eratigena atrica,Giant House Spider,2025-04-27,51.5167147872,-3.0558481067,Gwent Wildlife Trust
+52,Araneus diadematus,Cross Orbweaver,2025-04-27,52.424395997,-1.4655124024,Warwickshire Wildlife Trust
+53,Arctosa perita,Sand Bear Spider,2025-04-27,53.7662666667,-3.0500388889,"Lancashire, Manchester and north Merseyside - The Wildlife Trust for"
+54,Diaea dorsata,Eurasian Green Crab Spider,2025-04-26,51.4804700154,-0.2977758273,London Wildlife Trust
+55,Araneus diadematus,Cross Orbweaver,2025-04-26,52.4158533333,-1.4530833333,Warwickshire Wildlife Trust
+56,Agalenatea redii,Gorse Orbweaver,2025-04-25,52.6562591033,1.294853501,Norfolk Wildlife Trust
+57,Agalenatea redii,Gorse Orbweaver,2025-04-25,52.6564089918,1.2944541872,Norfolk Wildlife Trust
+58,Agalenatea redii,Gorse Orbweaver,2021-07-16,51.7599894085,-1.2464674562,"Berks, Bucks & Oxon Wildlife Trust"
+59,Agalenatea redii,Gorse Orbweb Spider,2025-04-26,51.4964,-0.3291933333,London Wildlife Trust
+60,Euophrys frontalis,White-Palped Jumping Spider,2020-05-08,51.7599894085,-1.2464674562,"Berks, Bucks & Oxon Wildlife Trust"
+61,Agelena labyrinthica,Labyrinth spider,2024-07-08,51.7599894085,-1.2464674562,"Berks, Bucks & Oxon Wildlife Trust"
+62,Philaeus chrysops,Red-bellied Jumping Spider,2024-07-14,53.7674630154,-0.32730259,Yorkshire Wildlife Trust
+63,Araneus diadematus,European Garden Spider,2025-04-26,53.63597587,-2.99610095,"Lancashire, Manchester and north Merseyside - The Wildlife Trust for"
+64,Nigma walckenaeri,Green Meshweaver,2025-04-26,53.7602387935,-0.3823927058,Yorkshire Wildlife Trust
+65,Agalenatea redii,Gorse Orbweaver,2025-04-24,50.9670333333,-0.3530783333,Sussex Wildlife Trust
+66,Agalenatea redii,Gorse Orbweb Spider,2025-04-24,52.924941434,-0.6691515037,Lincolnshire Wildlife Trust
+67,Agalenatea redii,Gorse Orbweb Spider,2025-04-24,52.924941434,-0.6691515037,Lincolnshire Wildlife Trust
+68,Araneus diadematus,European Garden Spider,2025-04-25,52.4848171439,-1.986939917,Birmingham & Black Country Wildlife Trust
+69,Agalenatea redii,Gorse Orbweaver,2025-04-25,52.4239466667,-1.46158,Warwickshire Wildlife Trust
+70,Agalenatea redii,Gorse Orbweb Spider,2025-04-24,51.5143425124,-3.7299579793,South & West Wales - The Wildlife Trust for
+71,Arctosa perita,Sand Bear Spider,2025-04-24,50.7982861111,-1.8978555556,Dorset Wildlife Trust
+72,Uloborus plumipes,Feather-legged Lace Weaver,2025-04-24,51.145475,0.3091111111,Kent Wildlife Trust
+73,Agalenatea redii,Gorse Orbweaver,2025-04-24,51.4119135216,-0.9380012658,"Berks, Bucks & Oxon Wildlife Trust"
+74,Arctosa perita,Sand Bear Spider,2025-04-23,53.5896484722,-3.0633723611,"Lancashire, Manchester and north Merseyside - The Wildlife Trust for"
+75,Agalenatea redii,Gorse Orbweb Spider,2025-04-23,50.7421733721,-2.207008414,Dorset Wildlife Trust
+76,Agalenatea redii,Gorse Orbweaver,2025-04-22,51.3602205997,-2.3318034997,Avon Wildlife Trust
+77,Agalenatea redii,Gorse Orbweb Spider,2025-04-22,52.924941434,-0.6691515037,Lincolnshire Wildlife Trust
+78,Gibbaranea gibbosa,Humped orbweb spider,2025-04-22,51.4480491209,-0.3174203988,London Wildlife Trust
+79,Pardosa nigriceps,Black-Palped Wolf Spider,2025-04-22,51.48243586,-0.1516470686,London Wildlife Trust
+80,Agalenatea redii,Gorse Orbweb Spider,2025-04-22,55.9296111111,-4.4237361111,Scottish Wildlife Trust
+81,Araneus diadematus,European Garden Spider,2021-10-09,51.6611127335,-0.3970199078,Herts & Middlesex Wildlife Trust
+82,Agalenatea redii,Gorse Orbweb Spider,2025-04-21,51.8982406,-0.9312226,"Berks, Bucks & Oxon Wildlife Trust"
+83,Amaurobius similis,Lace-Weaver Spider,2025-04-21,53.0308966,-1.7330311,Derbyshire Wildlife Trust
+84,Amaurobius similis,Lace-Weaver Spider,2025-04-21,53.0309778333,-1.73313,Derbyshire Wildlife Trust
+85,Agalenatea redii,Gorse Orbweaver,2025-04-21,50.7789231691,-1.1472352667,Hampshire & IOW Wildlife Trust
+86,Araneus diadematus,European Garden Spider,2025-04-21,53.5027438145,-2.3554265556,"Lancashire, Manchester and north Merseyside - The Wildlife Trust for"
+87,Agalenatea redii,Gorse Orbweb Spider,2025-04-19,51.0709447022,-4.202655775,Devon Wildlife Trust
+88,Euophrys frontalis,White-Palped Jumping Spider,2025-04-20,51.484473651,-0.1908773929,London Wildlife Trust
+89,Harpactea hombergi,Sneak Spider,2025-04-20,56.1235666667,-3.9291388889,Scottish Wildlife Trust
+90,Agalenatea redii,Gorse Orbweb Spider,2025-04-20,52.9642888889,0.6162583333,Norfolk Wildlife Trust
+91,Agalenatea redii,Gorse Orbweaver,2025-04-20,51.9953851,-4.7403325,South & West Wales - The Wildlife Trust for
+92,Araneus diadematus,European Garden Spider,2025-04-20,53.6287607639,-2.146352604,"Lancashire, Manchester and north Merseyside - The Wildlife Trust for"
+93,Arctosa perita,Sand Bear Spider,2025-04-19,57.3209236088,-1.9788742881,Scottish Wildlife Trust
+94,Amaurobius similis,Lace-Weaver Spider,2025-04-19,54.5411099154,-1.9406937394,Durham Wildlife Trust
+95,Araneus diadematus,European Garden Spider,2025-04-18,54.0801841021,-1.6814184096,Yorkshire Wildlife Trust
+96,Harpactea hombergi,Sneak Spider,2025-04-17,51.9848761332,-2.4463228048,Gloucestershire Wildlife Trust
+97,Agalenatea redii,Gorse Orbweb Spider,2025-04-10,52.8639289797,-4.1227337156,North Wales Wildlife Trust
+98,Araneus alsine,Strawberry Spider,2018-07-21,56.17852,-4.38307,Scottish Wildlife Trust
+99,Agelena labyrinthica,Labyrinth spider,2025-04-17,52.442855,1.0255666667,Norfolk Wildlife Trust
+100,Arctosa perita,Sand Bear Spider,2019-06-09,57.6209633333,-3.31737,Scottish Wildlife Trust
+101,Araneus diadematus,Cross Orbweaver,2022-10-28,50.9953117371,-1.3365033865,Hampshire & IOW Wildlife Trust
+102,Araneus diadematus,Cross Orbweaver,2006-08-15,53.430785,-2.142333,Cheshire Wildlife Trust
+103,Agalenatea redii,Gorse Orbweaver,2025-04-14,52.0637525735,1.2380047515,Suffolk Wildlife Trust
+104,Argyroneta aquatica,European Water Spider,2025-04-12,54.9764438094,-3.4846060207,Scottish Wildlife Trust
+105,Euophrys frontalis,White-Palped Jumping Spider,2025-01-25,51.2536978107,-0.3174120433,Surrey Wildlife Trust
+106,Araneus diadematus,European Garden Spider,2024-06-29,51.4607211012,-0.33188884,London Wildlife Trust
+107,Niptus hololeucus,golden spider beetle,2025-04-13,55.9576313794,-3.1621869653,Scottish Wildlife Trust
+108,Niptus hololeucus,golden spider beetle,2025-04-13,55.9576324,-3.1621819,Scottish Wildlife Trust
+109,Macropodia rostrata,Long-legged Spider Crab,2025-04-10,54.4934833333,-5.651095,Ulster Wildlife Trust
+110,Arctosa perita,Sand Bear Spider,2025-04-13,52.863845126,-4.1272075474,North Wales Wildlife Trust
+111,Trochosa terricola,Ground wolf spider,2025-04-11,51.4811149497,-0.298806313,London Wildlife Trust
+112,Diaea dorsata,Eurasian Green Crab Spider,2025-04-12,51.4577366667,-0.0477611667,London Wildlife Trust
+113,Diaea dorsata,Eurasian Green Crab Spider,2025-04-12,51.4577366667,-0.0477611667,London Wildlife Trust
+114,Eratigena atrica,Giant House Spider,2025-04-12,52.4159966667,-1.4526116667,Warwickshire Wildlife Trust
+115,Platnickina tincta,False Pirate Spider,2025-04-12,53.8487496572,-3.0509869382,"Lancashire, Manchester and north Merseyside - The Wildlife Trust for"
+116,Araneus diadematus,European Garden Spider,2025-04-11,51.3100545283,-0.5704845344,Surrey Wildlife Trust
+117,Steatoda albomaculata,White-spotted False Widow,2025-04-11,52.3362359695,-2.2577568144,Worcestershire Wildlife Trust
+118,Agalenatea redii,Gorse Orbweb Spider,2024-09-13,50.2106750236,-5.3993444149,Cornwall Wildlife Trust
+119,Agalenatea redii,Gorse Orbweaver,2025-04-10,52.929936625,-4.0524278954,North Wales Wildlife Trust
+120,Araneus diadematus,Cross Orbweaver,2025-04-10,51.1138883504,-4.1754061358,Devon Wildlife Trust
+121,Araneus diadematus,Cross Orbweaver,2024-09-17,57.2206449578,-3.6262563989,Scottish Wildlife Trust
+122,Araneus diadematus,Cross Orbweaver,2024-09-17,57.2202603143,-3.6264371127,Scottish Wildlife Trust
+123,Tetragnatha obtusa,Blunt Stretch Spider,2025-04-09,52.9082111111,-2.9002222222,Shropshire Wildlife Trust
+124,Agalenatea redii,Gorse Orbweb Spider,2025-04-08,51.4526,-0.3896416667,London Wildlife Trust
+125,Araneus diadematus,European Garden Spider,2025-04-08,52.5919728326,-2.054416202,Birmingham & Black Country Wildlife Trust
+126,Araneus diadematus,European Garden Spider,2024-08-09,52.5199636735,-2.078717986,Birmingham & Black Country Wildlife Trust
+127,Pirata piraticus,Pirate Otter Spider,2025-04-08,51.4570616667,-2.602095,Avon Wildlife Trust
+128,Thanatus vulgaris,Thanatus vulgaris,2025-04-08,54.1938158,-2.7536160997,Cumbria Wildlife Trust
+129,Araneus diadematus,Cross Orbweaver,2009-08-21,53.097204,-1.806568,Staffordshire Wildlife Trust
+130,Araneus diadematus,Cross Orbweaver,2006-08-22,53.430273,-2.144487,Cheshire Wildlife Trust
+131,Araneus diadematus,Cross Orbweaver,2009-09-07,49.96077,-5.202611,Cornwall Wildlife Trust
+132,Araneus diadematus,Cross Orbweaver,2009-09-26,53.439272,-2.124574,Cheshire Wildlife Trust
+133,Harpactea hombergi,Sneak Spider,2025-04-08,53.2173305527,-4.1722143475,North Wales Wildlife Trust
+134,Paidiscura pallens,Sputnik Spider,2025-04-07,53.371437,-1.4995769722,Sheffield & Rotherham Wildlife Trust
+135,Araneus diadematus,Cross Orbweaver,2025-03-31,55.9373674987,-3.0618868347,Scottish Wildlife Trust
+136,Meta menardi,European cave spider,2025-04-07,52.6385883333,1.1347416667,Norfolk Wildlife Trust
+137,Araneus diadematus,European Garden Spider,2022-09-13,53.425827,-2.233064,"Lancashire, Manchester and north Merseyside - The Wildlife Trust for"
+138,Agalenatea redii,Gorse Orbweaver,2025-04-06,52.5819014418,-1.8676401623,Birmingham & Black Country Wildlife Trust
+139,Tibellus oblongus,Oblong Running Spider,2025-04-06,53.312993825,-3.8423393171,North Wales Wildlife Trust
+140,Trochosa terricola,Ground wolf spider,2025-04-05,53.805420488,-2.6247192174,"Lancashire, Manchester and north Merseyside - The Wildlife Trust for"
+141,Eratigena atrica,Giant House Spider,2025-04-05,50.8514047821,-3.3983497694,Devon Wildlife Trust
+142,Arctosa perita,Sand Bear Spider,2025-04-04,50.7666583333,-1.8030527778,Dorset Wildlife Trust
+143,Araneus diadematus,European Garden Spider,2019-06-17,53.584871978,-2.3977002854,"Lancashire, Manchester and north Merseyside - The Wildlife Trust for"
+144,Paidiscura pallens,Sputnik Spider,2025-04-03,53.3734099722,-1.484803,Sheffield & Rotherham Wildlife Trust
+145,Paidiscura pallens,Sputnik Spider,2025-04-03,53.372995,-1.484477,Sheffield & Rotherham Wildlife Trust
+146,Diaea dorsata,Eurasian Green Crab Spider,2024-12-31,51.8299099987,-2.5057682768,Gloucestershire Wildlife Trust
+147,Araneus diadematus,Cross Orbweaver,2025-04-04,53.752625,-1.5998722222,Yorkshire Wildlife Trust
+148,Meta menardi,European cave spider,2025-04-03,56.4054,-5.4954,Scottish Wildlife Trust
+149,Araneus diadematus,Cross Orbweaver,2023-09-29,51.99107,-1.70153,Gloucestershire Wildlife Trust
+150,Agalenatea redii,Gorse Orbweaver,2025-04-03,53.3549383333,-3.1365388333,Cheshire Wildlife Trust
+151,Agalenatea redii,Gorse Orbweaver,2025-04-03,52.1734781053,0.1055572992,"Bedfordshire, Cambridgeshire and Northamptonshire - The Wildlife Trust for"
+152,Clubiona corticalis,Bark Sac Spider,2025-04-02,51.458029,-0.3926341997,London Wildlife Trust
+153,Amaurobius similis,Lace-Weaver Spider,2025-04-01,56.4521005683,-3.0723478478,Scottish Wildlife Trust
+154,Trochosa terricola,Ground wolf spider,2025-04-01,50.9587393284,0.0997169711,Sussex Wildlife Trust
+155,Euophrys frontalis,White-Palped Jumping Spider,2025-03-30,51.7757614516,-3.1530036146,Gwent Wildlife Trust
+156,Badumna longinqua,Grey House Spider,2025-03-28,50.3116266022,-5.1729536153,Cornwall Wildlife Trust
+157,Harpactea hombergi,Sneak Spider,2025-03-29,50.9486283333,-2.8068166667,Somerset Wildlife Trust
+158,Amaurobius similis,Lace-Weaver Spider,2025-03-29,51.4693588425,-1.7150587589,Wiltshire Wildlife Trust
+159,Nigma walckenaeri,Green Meshweaver,2025-03-29,53.7601896509,-0.3824720869,Yorkshire Wildlife Trust
+160,Badumna longinqua,Grey House Spider,2025-03-27,54.897432,-1.517366,Durham Wildlife Trust
+161,Nigma walckenaeri,Green Meshweaver,2025-03-28,51.7195975064,-0.188250688,Herts & Middlesex Wildlife Trust
+162,Paidiscura pallens,Sputnik Spider,2025-03-27,53.3717079722,-1.499408,Sheffield & Rotherham Wildlife Trust
+163,Paidiscura pallens,Sputnik Spider,2025-03-27,53.371566,-1.4993389722,Sheffield & Rotherham Wildlife Trust
+164,Paidiscura pallens,Sputnik Spider,2025-03-27,53.371433,-1.499854,Sheffield & Rotherham Wildlife Trust
+165,Paidiscura pallens,Sputnik Spider,2025-03-27,53.371389,-1.499627,Sheffield & Rotherham Wildlife Trust
+166,Paidiscura pallens,Sputnik Spider,2025-03-27,53.3715159722,-1.499484,Sheffield & Rotherham Wildlife Trust
+167,Paidiscura pallens,Sputnik Spider,2025-03-27,53.3715079722,-1.499527,Sheffield & Rotherham Wildlife Trust
+168,Paidiscura pallens,Sputnik Spider,2025-03-27,53.3714459722,-1.4994989722,Sheffield & Rotherham Wildlife Trust
+169,Paidiscura pallens,Sputnik Spider,2025-03-27,53.371568,-1.4992239722,Sheffield & Rotherham Wildlife Trust
+170,Paidiscura pallens,Sputnik Spider,2025-03-27,53.3713449722,-1.4984409722,Sheffield & Rotherham Wildlife Trust
+171,Antistea elegans,Marsh Combtail Spider,2025-03-27,51.6992811831,-5.1616215683,South & West Wales - The Wildlife Trust for
+172,Agalenatea redii,Gorse Orbweaver,2025-03-27,52.2107204138,-1.7016878811,Warwickshire Wildlife Trust
+173,Diaea dorsata,Eurasian Green Crab Spider,2025-03-26,51.3928324668,0.0003939494,London Wildlife Trust
+174,Agalenatea redii,Gorse Orbweaver,2025-03-22,50.6694333333,-1.5686966667,Hampshire & IOW Wildlife Trust
+175,Niptus hololeucus,golden spider beetle,2025-03-26,55.9554068,-3.1586141,Scottish Wildlife Trust
+176,Araneus diadematus,European Garden Spider,2025-03-26,53.6287607639,-2.146352604,"Lancashire, Manchester and north Merseyside - The Wildlife Trust for"
+177,Agalenatea redii,Gorse Orbweaver,2025-03-19,51.6657533333,0.5737116667,Essex Wildlife Trust
+178,Araneus diadematus,Cross Orbweaver,2023-08-15,53.433454184,-2.2785697505,"Lancashire, Manchester and north Merseyside - The Wildlife Trust for"
+179,Agalenatea redii,Gorse Orbweb Spider,2025-03-10,52.4874781848,-2.0996914719,Birmingham & Black Country Wildlife Trust
+180,Agalenatea redii,Gorse Orbweb Spider,2025-03-21,51.5422827895,0.5990532176,Essex Wildlife Trust
+181,Araneus diadematus,European Garden Spider,2024-07-18,52.5136691996,-2.0782844576,Birmingham & Black Country Wildlife Trust
+182,Araneus diadematus,Cross Orbweaver,2023-09-16,51.06015,-1.2943666667,Hampshire & IOW Wildlife Trust
+183,Paidiscura pallens,Sputnik Spider,2024-07-19,52.4934922197,-2.0809100714,Birmingham & Black Country Wildlife Trust
+184,Diaea dorsata,Eurasian Green Crab Spider,2025-03-21,50.7253037375,-1.861323975,Dorset Wildlife Trust
+185,Euophrys frontalis,White-Palped Jumping Spider,2025-03-21,53.3066297151,-4.6941760384,North Wales Wildlife Trust
+186,Eratigena atrica,Giant House Spider,2025-03-21,51.3979321988,-1.4400802482,"Berks, Bucks & Oxon Wildlife Trust"
+187,Agalenatea redii,Gorse Orbweb Spider,2025-03-20,52.5460366667,0.6587583333,Norfolk Wildlife Trust
+188,Paidiscura pallens,Sputnik Spider,2025-03-20,53.3715419722,-1.497017,Sheffield & Rotherham Wildlife Trust
+189,Paidiscura pallens,Sputnik Spider,2025-03-20,53.3713509722,-1.4981759722,Sheffield & Rotherham Wildlife Trust
+190,Paidiscura pallens,Sputnik Spider,2025-03-20,53.371667,-1.4992799722,Sheffield & Rotherham Wildlife Trust
+191,Paidiscura pallens,Sputnik Spider,2025-03-20,53.3717269722,-1.4991209722,Sheffield & Rotherham Wildlife Trust
+192,Paidiscura pallens,Sputnik Spider,2025-03-20,53.3714629722,-1.4986369722,Sheffield & Rotherham Wildlife Trust
+193,Paidiscura pallens,Sputnik Spider,2025-03-20,53.3714289722,-1.4985869722,Sheffield & Rotherham Wildlife Trust
+194,Trochosa terricola,Ground wolf spider,2025-03-20,51.1575466575,-3.2441248265,Somerset Wildlife Trust
+195,Araneus diadematus,European Garden Spider,2025-03-20,50.8366966667,-0.1245695,Sussex Wildlife Trust
+196,Agalenatea redii,Gorse Orbweaver,2025-03-20,52.5460096222,0.6587205278,Norfolk Wildlife Trust
+197,Araneus diadematus,Cross Orbweaver,2025-03-08,55.940225,-3.2202616667,Scottish Wildlife Trust
+198,Agalenatea redii,Gorse Orbweb Spider,2025-03-08,50.9844361111,-0.3552388889,Sussex Wildlife Trust
+199,Nymphon gracile,Gracile Sea Spider,2025-03-15,50.355945,-4.1268721667,Devon Wildlife Trust
+200,Nymphon gracile,Gracile Sea Spider,2025-03-15,50.1479666278,-5.0570869419,Cornwall Wildlife Trust
+201,Paidiscura pallens,Sputnik Spider,2025-03-27,53.3715159722,-1.499484,Sheffield & Rotherham Wildlife Trust
+202,Paidiscura pallens,Sputnik Spider,2025-03-27,53.3715079722,-1.499527,Sheffield & Rotherham Wildlife Trust
+203,Paidiscura pallens,Sputnik Spider,2025-03-27,53.3714459722,-1.4994989722,Sheffield & Rotherham Wildlife Trust
+204,Paidiscura pallens,Sputnik Spider,2025-03-27,53.371568,-1.4992239722,Sheffield & Rotherham Wildlife Trust
+205,Paidiscura pallens,Sputnik Spider,2025-03-27,53.3713449722,-1.4984409722,Sheffield & Rotherham Wildlife Trust
+206,Antistea elegans,Marsh Combtail Spider,2025-03-27,51.6992811831,-5.1616215683,South & West Wales - The Wildlife Trust for
+207,Agalenatea redii,Gorse Orbweaver,2025-03-27,52.2107204138,-1.7016878811,Warwickshire Wildlife Trust
+208,Diaea dorsata,Eurasian Green Crab Spider,2025-03-26,51.3928324668,0.0003939494,London Wildlife Trust
+209,Agalenatea redii,Gorse Orbweaver,2025-03-22,50.6694333333,-1.5686966667,Hampshire & IOW Wildlife Trust
+210,Niptus hololeucus,golden spider beetle,2025-03-26,55.9554068,-3.1586141,Scottish Wildlife Trust
+211,Araneus diadematus,European Garden Spider,2025-03-26,53.6287607639,-2.146352604,"Lancashire, Manchester and north Merseyside - The Wildlife Trust for"
+212,Agalenatea redii,Gorse Orbweaver,2025-03-19,51.6657533333,0.5737116667,Essex Wildlife Trust
+213,Araneus diadematus,Cross Orbweaver,2023-08-15,53.433454184,-2.2785697505,"Lancashire, Manchester and north Merseyside - The Wildlife Trust for"
+214,Agalenatea redii,Gorse Orbweb Spider,2025-03-10,52.4874781848,-2.0996914719,Birmingham & Black Country Wildlife Trust
+215,Agalenatea redii,Gorse Orbweb Spider,2025-03-21,51.5422827895,0.5990532176,Essex Wildlife Trust
+216,Araneus diadematus,European Garden Spider,2024-07-18,52.5136691996,-2.0782844576,Birmingham & Black Country Wildlife Trust
+217,Pseudeuophrys lanigera,House Jumping Spider,2025-03-22,53.384751,-1.4757439722,Sheffield & Rotherham Wildlife Trust
+218,Araneus diadematus,Cross Orbweaver,2023-09-16,51.06015,-1.2943666667,Hampshire & IOW Wildlife Trust
+219,Paidiscura pallens,Sputnik Spider,2024-07-19,52.4934922197,-2.0809100714,Birmingham & Black Country Wildlife Trust
+220,Diaea dorsata,Eurasian Green Crab Spider,2025-03-21,50.7253037375,-1.861323975,Dorset Wildlife Trust
+221,Euophrys frontalis,White-Palped Jumping Spider,2025-03-21,53.3066297151,-4.6941760384,North Wales Wildlife Trust
+222,Eratigena atrica,Giant House Spider,2025-03-21,51.3979321988,-1.4400802482,"Berks, Bucks & Oxon Wildlife Trust"
+223,Agalenatea redii,Gorse Orbweb Spider,2025-03-20,52.5460366667,0.6587583333,Norfolk Wildlife Trust
+224,Paidiscura pallens,Sputnik Spider,2025-03-20,53.3715419722,-1.497017,Sheffield & Rotherham Wildlife Trust
+225,Paidiscura pallens,Sputnik Spider,2025-03-20,53.3713509722,-1.4981759722,Sheffield & Rotherham Wildlife Trust
+226,Paidiscura pallens,Sputnik Spider,2025-03-20,53.371667,-1.4992799722,Sheffield & Rotherham Wildlife Trust
+227,Paidiscura pallens,Sputnik Spider,2025-03-20,53.3717269722,-1.4991209722,Sheffield & Rotherham Wildlife Trust
+228,Paidiscura pallens,Sputnik Spider,2025-03-20,53.3714629722,-1.4986369722,Sheffield & Rotherham Wildlife Trust
+229,Paidiscura pallens,Sputnik Spider,2025-03-20,53.3714289722,-1.4985869722,Sheffield & Rotherham Wildlife Trust
+230,Trochosa terricola,Ground wolf spider,2025-03-20,51.1575466575,-3.2441248265,Somerset Wildlife Trust
+231,Araneus diadematus,European Garden Spider,2025-03-20,50.8366966667,-0.1245695,Sussex Wildlife Trust
+232,Agalenatea redii,Gorse Orbweaver,2025-03-20,52.5460096222,0.6587205278,Norfolk Wildlife Trust
+233,Pseudeuophrys lanigera,House Jumping Spider,2025-03-18,51.4994300096,-0.2818996683,London Wildlife Trust
+234,Pseudeuophrys lanigera,House Jumping Spider,2025-03-14,51.5188688371,-0.0027747149,London Wildlife Trust
+235,Araneus diadematus,Cross Orbweaver,2025-03-08,55.940225,-3.2202616667,Scottish Wildlife Trust
+236,Agalenatea redii,Gorse Orbweb Spider,2025-03-08,50.9844361111,-0.3552388889,Sussex Wildlife Trust
+237,Nymphon gracile,Gracile Sea Spider,2025-03-15,50.355945,-4.1268721667,Devon Wildlife Trust
+238,Nymphon gracile,Gracile Sea Spider,2025-03-15,50.1479666278,-5.0570869419,Cornwall Wildlife Trust
+239,Nymphon gracile,Gracile Sea Spider,2025-03-15,50.1477047697,-5.0558219568,Cornwall Wildlife Trust
+240,Agalenatea redii,Gorse Orbweb Spider,2025-03-14,51.3808083333,-2.9537305556,Avon Wildlife Trust
+241,Larinioides sclopetarius,Grey Cross Spider,2019-09-28,53.7758388409,-1.504310512,Yorkshire Wildlife Trust
+242,Araneus diadematus,Cross Orbweaver,2022-10-08,52.7100133333,-2.980495,Shropshire Wildlife Trust
+243,Badumna longinqua,Grey House Spider,2025-03-08,55.0249508002,-2.603037392,Cumbria Wildlife Trust
+244,Clubiona corticalis,Bark Sac Spider,2025-03-09,51.4236,-0.5647,Surrey Wildlife Trust
+245,Araneus diadematus,Cross Orbweaver,2023-09-07,54.9712954597,-1.587360464,Northumberland Wildlife Trust
+246,Pseudeuophrys lanigera,House Jumping Spider,2025-03-11,55.8352116666,-4.2612500802,Scottish Wildlife Trust
+247,Hyas araneus,Great Spider Crab,2025-03-10,54.3938416667,-5.5780283333,
+248,Tetragnatha obtusa,Blunt Stretch Spider,2025-03-10,50.3659158791,-4.1779615794,Devon Wildlife Trust
+249,Araneus diadematus,European Garden Spider,2025-03-07,51.5500580506,-0.1110215432,London Wildlife Trust
+250,Araneus diadematus,European Garden Spider,2025-03-09,52.9510448167,-1.1926532909,Nottinghamshire Wildlife Trust
+251,Paidiscura pallens,Sputnik Spider,2025-03-09,53.398237,-1.4717739722,Sheffield & Rotherham Wildlife Trust
+252,Paidiscura pallens,Sputnik Spider,2025-03-09,53.398257,-1.471791,Sheffield & Rotherham Wildlife Trust
+253,Paidiscura pallens,Sputnik Spider,2025-03-09,53.3982609722,-1.4717849722,Sheffield & Rotherham Wildlife Trust
+254,Amaurobius similis,Lace-Weaver Spider,2025-03-09,52.1075407738,-1.6204954755,Warwickshire Wildlife Trust
+255,Paidiscura pallens,Sputnik Spider,2025-03-09,53.4014299722,-1.475348,Sheffield & Rotherham Wildlife Trust
+256,Amaurobius similis,Lace-Weaver Spider,2025-03-09,53.6287609627,-2.146352604,"Lancashire, Manchester and north Merseyside - The Wildlife Trust for"
+257,Badumna longinqua,Grey House Spider,2025-01-27,54.897432,-1.517366,Durham Wildlife Trust
+258,Araneus diadematus,Cross Orbweaver,2025-03-08,55.940145,-3.2202966667,Scottish Wildlife Trust
+259,Harpactea hombergi,Sneak Spider,2025-03-08,52.9473839546,-0.1529198282,Lincolnshire Wildlife Trust
+260,Araneus diadematus,Cross Orbweaver,2024-08-30,57.0062971589,-2.7547753525,Scottish Wildlife Trust
+261,Clubiona corticalis,Bark Sac Spider,2025-03-06,52.1074867872,-1.6203960293,Warwickshire Wildlife Trust
+262,Paidiscura pallens,Sputnik Spider,2025-03-07,52.2043917032,-1.7132359251,Warwickshire Wildlife Trust
+263,Segestria senoculata,Snake-back Spider,2025-03-06,53.22996729,-4.1098265604,North Wales Wildlife Trust
+264,Paidiscura pallens,Sputnik Spider,2025-03-06,53.3709479722,-1.499144,Sheffield & Rotherham Wildlife Trust
+265,Pseudeuophrys lanigera,House Jumping Spider,2025-03-06,51.4952878693,-2.5471470505,Avon Wildlife Trust
+266,Diaea dorsata,Diaea dorsata,2024-11-09,50.8673070798,-2.1909349299,Dorset Wildlife Trust
+267,Araneus diadematus,European Garden Spider,2024-10-05,53.2433466667,-2.1340233333,Cheshire Wildlife Trust
+268,Araneus diadematus,European Garden Spider,2024-10-05,53.2423116667,-2.1372133333,Cheshire Wildlife Trust
+269,Araneus diadematus,European Garden Spider,2024-10-05,53.240825,-2.1396133333,Cheshire Wildlife Trust
+270,Agalenatea redii,Gorse Orbweb Spider,2025-03-04,55.8900353351,-4.2194550524,Scottish Wildlife Trust
+271,Nymphon gracile,Gracile Sea Spider,2025-03-02,50.1479144446,-5.0557288489,Cornwall Wildlife Trust
+272,Agalenatea redii,Gorse Orbweaver,2025-03-02,52.015065,-4.7564316667,South & West Wales - The Wildlife Trust for
+273,Araneus diadematus,European Garden Spider,2024-10-28,53.427495,-2.2278116667,"Lancashire, Manchester and north Merseyside - The Wildlife Trust for"
+274,Hyas araneus,Great Spider Crab,2014-07-18,55.9148239041,-2.1364016086,
+275,Larinioides sclopetarius,Grey Cross Spider,2025-02-28,54.9065208944,-2.9315042496,Cumbria Wildlife Trust
+276,Agalenatea redii,Gorse Orbweb Spider,2024-05-08,51.5003442058,-0.3452079636,London Wildlife Trust
+277,Araneus diadematus,Cross Orbweaver,2023-09-28,51.186200459,1.3968715293,Kent Wildlife Trust
+278,Araneus diadematus,European Garden Spider,2024-10-02,53.3445783333,-2.0859233333,Cheshire Wildlife Trust
+279,Paidiscura pallens,Sputnik Spider,2025-02-28,53.3734359722,-1.483869,Sheffield & Rotherham Wildlife Trust
+280,Diaea dorsata,Eurasian Green Crab Spider,2025-02-28,51.6790883333,-1.5289716667,"Berks, Bucks & Oxon Wildlife Trust"
+281,Araneus diadematus,Cross Orbweaver,2010-10-02,51.4788782774,-0.0094674425,London Wildlife Trust
+282,Segestria senoculata,Snake-back Spider,2025-02-24,55.9715916667,-4.5523666667,Scottish Wildlife Trust
+283,Badumna longinqua,Grey House Spider,2025-02-23,54.9037368476,-1.5412512794,Durham Wildlife Trust
+284,Pseudeuophrys lanigera,House Jumping Spider,2025-02-05,55.9415122009,-3.2673014031,Scottish Wildlife Trust
+285,Palpimanus gibbulus,Common Palp-footed Spider,2025-02-22,51.1409749428,-0.9854385629,Hampshire & IOW Wildlife Trust
+286,Pseudeuophrys lanigera,House Jumping Spider,2025-02-19,52.468738147,-2.1645339578,Birmingham & Black Country Wildlife Trust
+287,Araneus diadematus,Cross Orbweaver,2024-11-02,50.8480418414,-0.9370082617,Hampshire & IOW Wildlife Trust
+288,Araneus diadematus,European Garden Spider,2023-09-03,50.8509491011,-0.9086225433,Sussex Wildlife Trust
+289,Harpactea hombergi,Sneak Spider,2025-02-17,53.2315174861,-4.1124013842,North Wales Wildlife Trust
+290,Araneus diadematus,Cross Orbweaver,2024-08-28,51.665755,0.5740883333,Essex Wildlife Trust
+291,Diaea dorsata,Eurasian Green Crab Spider,2025-02-17,51.575549334,-0.1468544123,London Wildlife Trust
+292,Araneus diadematus,Cross Orbweaver,2024-10-11,52.5386245,-1.8681835,Birmingham & Black Country Wildlife Trust
+293,Arctosa perita,Sand Bear Spider,2021-04-03,50.5784062,-3.6658572,Devon Wildlife Trust
+294,Oonops domesticus,hidden house spider,2025-02-11,53.9532286475,-1.0517974198,Yorkshire Wildlife Trust
+295,Linyphia triangularis,Common sheetweb spider,2023-10-10,51.481411084,-0.2958218381,London Wildlife Trust
+296,Araneus diadematus,European Garden Spider,2023-10-05,51.6608194444,-0.3882611111,Herts & Middlesex Wildlife Trust
+297,Pseudeuophrys lanigera,House Jumping Spider,2025-02-05,56.7890998642,-4.5974252533,Scottish Wildlife Trust
+298,Araneus diadematus,European Garden Spider,2023-09-16,51.6686666667,-0.4066638889,Herts & Middlesex Wildlife Trust
+299,Araneus marmoreus,Marbled Orbweaver,2024-09-09,51.137796,0.215476,Kent Wildlife Trust
+300,Larinioides sclopetarius,Grey Cross Spider,2025-02-04,53.8385719997,-1.7789054997,Yorkshire Wildlife Trust
+301,Pseudeuophrys lanigera,House Jumping Spider,2025-02-03,51.4729967578,-0.1117932751,London Wildlife Trust
+302,Agelena labyrinthica,Labyrinth spider,2024-05-11,52.6103533333,0.3673216667,Norfolk Wildlife Trust
+303,Araneus diadematus,European Garden Spider,2015-08-20,57.6374507522,-3.6983133449,Scottish Wildlife Trust
+304,Stemonyphantes lineatus,Horse-Head Spider,2025-01-30,51.3795847529,0.1057387143,London Wildlife Trust
+305,Paidiscura pallens,Sputnik Spider,2025-01-31,51.4774944652,-0.1655808091,London Wildlife Trust
+306,Araneus diadematus,Cross Orbweaver,2015-10-19,51.5387603726,0.7069069147,Essex Wildlife Trust
+307,Amaurobius similis,Lace-Weaver Spider,2025-01-26,53.6485684971,-2.9959114641,"Lancashire, Manchester and north Merseyside - The Wildlife Trust for"
+308,Agalenatea redii,Gorse Orbweaver,2025-01-25,53.1887101873,-1.7423931915,Derbyshire Wildlife Trust
+309,Psilochorus simoni,Wine Cellar Spider,2025-01-26,54.8880342114,-2.9186021537,Cumbria Wildlife Trust
+310,Araneus diadematus,Cross Orbweaver,2024-10-30,51.3835916,1.3656066,Kent Wildlife Trust
+311,Araneus diadematus,Cross Orbweaver,2023-08-22,53.454940054,-2.0112568013,Cheshire Wildlife Trust
+312,Araneus diadematus,Épeire diadème,2025-01-25,51.4351756254,-0.3298679402,London Wildlife Trust
+313,Segestria senoculata,Snake-back Spider,2025-01-24,51.510885,-0.112525,London Wildlife Trust
+314,Amaurobius similis,Lace-Weaver Spider,2025-01-22,51.4414078387,-2.5744556263,Avon Wildlife Trust
+315,Araneus diadematus,Cross Orbweaver,2019-10-11,53.201945,-2.885,Cheshire Wildlife Trust
+316,Araneus diadematus,Cross Orbweaver,2019-10-07,53.2002783333,-2.8833333333,Cheshire Wildlife Trust
+317,Tibellus,Slender Crab Spiders,2025-01-18,51.448489,-0.29209,London Wildlife Trust
+318,Trochosa terricola,Ground wolf spider,2025-01-18,51.435348,-0.288597,London Wildlife Trust
+319,Amaurobius similis,Lace-Weaver Spider,2025-01-22,50.9110823611,-1.3519412194,Hampshire & IOW Wildlife Trust
+320,Hyas araneus,Great Spider Crab,2025-01-18,53.2206123885,-4.1640592164,North Wales Wildlife Trust
+321,Araneus diadematus,European Garden Spider,2024-10-02,54.7126906506,-6.8952612431,Ulster Wildlife Trust
+322,Linyphia hortensis,Garden Hammock Spider,2025-01-18,53.6287609627,-2.146352604,"Lancashire, Manchester and north Merseyside - The Wildlife Trust for"
+323,Gibbaranea gibbosa,Humped orbweb spider,2025-01-17,51.9845823857,-2.4458306283,Gloucestershire Wildlife Trust
+324,Dolomedes fimbriatus,Raft Spider,2007-05-26,50.8385685562,-1.6153467425,Hampshire & IOW Wildlife Trust
+325,Araneus diadematus,European Garden Spider,2024-08-31,52.7597849166,-4.7878879309,North Wales Wildlife Trust
+326,Araneus diadematus,Cross Orbweaver,2023-09-07,51.73785,-4.3536383333,South & West Wales - The Wildlife Trust for
+327,Araneus diadematus,European Garden Spider,2024-08-31,52.7597954671,-4.7878963128,North Wales Wildlife Trust
+328,Araneus diadematus,European Garden Spider,2024-08-27,52.8944862494,-1.8677880988,Staffordshire Wildlife Trust
+329,Araneus diadematus,European Garden Spider,2024-08-27,52.894320997,-1.8685749918,Staffordshire Wildlife Trust
+330,Araneus marmoreus,Marbled Orbweaver,2024-08-29,51.183527,0.245286,Kent Wildlife Trust
+331,Hyas araneus,Great Spider Crab,2025-01-16,56.3332471934,-2.7696026412,Scottish Wildlife Trust
+332,Psilochorus simoni,Wine Cellar Spider,2025-01-12,53.230392197,-4.1207243432,North Wales Wildlife Trust
+333,Araneus diadematus,European Garden Spider,2024-09-20,53.3037016667,-2.0684166667,Cheshire Wildlife Trust
+334,Araneus diadematus,European Garden Spider,2024-09-17,53.3428066667,-2.0866316667,Cheshire Wildlife Trust
+335,Pseudeuophrys lanigera,House Jumping Spider,2025-01-14,51.5322879071,0.7987363273,Essex Wildlife Trust
+336,Niptus hololeucus,golden spider beetle,2025-01-14,52.6271643,-1.1132058,Leicestershire & Rutland Wildlife Trust
+337,Araneus diadematus,Cross Orbweaver,2023-09-16,54.321255,-0.4422116667,Yorkshire Wildlife Trust
+338,Gibbaranea gibbosa,Humped orbweb spider,2024-11-18,50.8459916813,-0.1176294403,Sussex Wildlife Trust
+339,Araneus diadematus,European Garden Spider,2015-09-17,51.3748333333,0.094219445,London Wildlife Trust
+340,Agelena labyrinthica,Labyrinth spider,2022-08-10,50.6633294739,-2.0726495517,Dorset Wildlife Trust
+341,Larinioides sclopetarius,Grey Cross Spider,2025-01-07,51.518773,-0.002446,London Wildlife Trust
+342,Thanatus vulgaris,Thanatus vulgaris,2025-01-08,50.4113004011,-5.0685439863,Cornwall Wildlife Trust
+343,Niptus hololeucus,golden spider beetle,2025-01-07,53.6020966667,-2.6179783333,"Lancashire, Manchester and north Merseyside - The Wildlife Trust for"
+344,Stemonyphantes lineatus,Horse-Head Spider,2025-01-06,52.2388153076,0.9193065166,Suffolk Wildlife Trust
+345,Stemonyphantes lineatus,Horse-Head Spider,2025-01-03,51.3080444444,-2.9854527778,Avon Wildlife Trust
+346,Araneus diadematus,European Garden Spider,2025-01-03,51.3078777778,-2.98275,Avon Wildlife Trust
+347,Gibbaranea gibbosa,Humped orbweb spider,2025-01-04,51.7516533333,-2.5717066667,Gloucestershire Wildlife Trust
+348,Euryopis flavomaculata,Ant-Tiger Spider,2024-12-04,51.3838332315,-0.6071172046,Surrey Wildlife Trust
+349,Amaurobius similis,Lace-Weaver Spider,2025-01-02,54.1641416667,-1.860125,Yorkshire Wildlife Trust
+350,Tegenaria silvestris,Wood House Spider,2024-12-24,51.7689083333,-2.53208,Gloucestershire Wildlife Trust
+351,Pseudeuophrys lanigera,House Jumping Spider,2025-01-02,50.85083,-0.18233,Sussex Wildlife Trust
+352,Paidiscura pallens,Sputnik Spider,2024-06-30,51.7677190068,-3.1500668513,Gwent Wildlife Trust
