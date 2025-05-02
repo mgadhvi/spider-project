@@ -62,6 +62,8 @@ While this project provides a solid foundation for visualizing spider sightings,
 
 This project showcases how data from platforms like *iNaturalist* can be integrated with *Wildlife Trust boundaries* to create a meaningful tool for conservation and education. It provides an engaging and informative way for people to learn about spider species in different regions, while also helping to track biodiversity in Wildlife Trust areas.
 
+You can view the map [[https://mgadhvi.github.io/spider-project/][here]]
+
 ** Data Sources
 
 - Spider sightings data sourced from [[https://www.inaturalist.org/][iNaturalist]]. This data is filtered to include only *research-grade* sightings with *open* geoprivacy.
