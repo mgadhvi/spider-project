@@ -1,3 +1,4 @@
+from prefect import flow, task
 import requests
 import pandas as pd
 import geopandas as gpd
@@ -6,7 +7,7 @@ from folium.plugins import MarkerCluster
 from shapely.geometry import Point
 import time
 
-
+@task
 def fetch_inaturalist_data():
     base_url = "https://api.inaturalist.org/v1/observations"
     params = {
@@ -45,7 +46,7 @@ def fetch_inaturalist_data():
 
     return all_observations
 
-
+@task
 def process_observations(observations):
     records = []
     for i, obs in enumerate(observations, start=1):
@@ -69,7 +70,7 @@ def process_observations(observations):
     gdf = gpd.GeoDataFrame(df, geometry=gpd.points_from_xy(df["lon"], df["lat"]), crs="EPSG:4326")
     return gdf
 
-
+@task
 def fetch_trust_boundaries():
     trust_url = (
         "https://services-eu1.arcgis.com/Y9jgVEvgymHqAYPW/arcgis/rest/services/"
@@ -78,20 +79,20 @@ def fetch_trust_boundaries():
     )
     return gpd.read_file(trust_url)
 
-
+@task
 def spatial_join_sightings_with_trusts(sightings_gdf, trust_gdf):
     sightings_gdf = sightings_gdf.to_crs(trust_gdf.crs)
     joined = gpd.sjoin(sightings_gdf, trust_gdf, how="left", predicate="within")
     joined = joined.rename(columns={"Trust": "Trust"})
     return joined
 
-
+@task
 def export_to_csv(joined_gdf, filename="spider_sightings.csv"):
     final_df = joined_gdf[["fid", "Species", "species_guess", "Observed on", "lat", "lon", "Trust"]]
     final_df.to_csv(filename, index=False)
     print(f"Saved final CSV as {filename}")
 
-
+@task
 def generate_folium_map(sightings_gdf, trust_gdf, map_filename="index.html"):
     # Create the map centered on the UK
     m = folium.Map(location=[54, -2], zoom_start=6, tiles="cartodbpositron")
@@ -123,7 +124,7 @@ def generate_folium_map(sightings_gdf, trust_gdf, map_filename="index.html"):
     m.save(map_filename)
     print(f"Saved Folium map to {map_filename}")
 
-
+@flow
 def main():
     # Step 1: Fetch spider data and process it
     observations = fetch_inaturalist_data()
@@ -141,6 +142,6 @@ def main():
     # Step 5: Generate the Folium map directly from the GeoDataFrame
     generate_folium_map(joined_gdf, trust_gdf)
 
-
+@task
 if __name__ == "__main__":
     main()
